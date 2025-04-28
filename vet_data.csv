@@ -1,0 +1,1001 @@
+Pet_ID,Pet_Type,Owner_Name,Procedure,Cost_Per_Treatment,Repeat_Seen,Consultation_Time_Minutes,Date_of_Treatment,Referral_Source,Diagnosis,Main_Condition,Visits_Count,Total_Income
+PET0640,Dog,Owner_29,Deworming,152,True,58,2025-01-17,Online Booking,Ear Infection,Trauma,5,760
+PET0026,Rabbit,Owner_133,Surgery,485,True,49,2025-03-20,Emergency,Skin Infection,Behavioral Issue,4,1940
+PET0276,Rabbit,Owner_45,Checkup,910,True,41,2025-03-14,Emergency,Parvovirus,Preventative Care,4,3640
+PET0224,Bird,Owner_61,Vaccination,320,False,43,2025-03-05,Walk-in,Parvovirus,Behavioral Issue,4,1280
+PET0737,Cat,Owner_13,Vaccination,156,False,37,2025-03-08,Online Booking,Ear Infection,Infectious Disease,2,312
+PET0677,Cat,Owner_190,Deworming,121,False,40,2025-03-22,Online Booking,Ear Infection,Infectious Disease,4,484
+PET0893,Dog,Owner_176,Dental Cleaning,750,False,17,2025-03-05,Walk-in,Arthritis,Genetic Disorder,3,2250
+PET0087,Dog,Owner_183,Dental Cleaning,70,False,48,2025-03-05,Online Booking,Dental Disease,Chronic Disease,1,70
+PET0422,Bird,Owner_126,Deworming,664,False,35,2025-01-24,Referred by Vet,Parvovirus,Trauma,4,2656
+PET0030,Cat,Owner_86,Vaccination,171,True,43,2025-03-20,Online Booking,Parvovirus,Chronic Disease,1,171
+PET0219,Rabbit,Owner_100,Dental Cleaning,516,True,12,2025-01-30,Emergency,Parvovirus,Preventative Care,2,1032
+PET0506,Rabbit,Owner_195,Neutering,264,False,59,2025-02-07,Online Booking,Parvovirus,Trauma,1,264
+PET0027,Rabbit,Owner_189,Checkup,380,True,21,2025-01-25,Referred by Vet,Skin Infection,Infectious Disease,2,760
+PET0199,Dog,Owner_135,Surgery,508,False,10,2025-01-01,Emergency,Parvovirus,Genetic Disorder,3,1524
+PET0650,Bird,Owner_158,Deworming,137,False,53,2025-01-16,Emergency,Arthritis,Genetic Disorder,2,274
+PET0545,Dog,Owner_64,Vaccination,422,True,14,2025-01-04,Walk-in,Arthritis,Trauma,2,844
+PET0221,Dog,Owner_84,Surgery,149,False,39,2025-03-01,Referred by Vet,Dental Disease,Genetic Disorder,5,745
+PET0590,Rabbit,Owner_30,Surgery,921,False,39,2025-03-22,Emergency,Dental Disease,Behavioral Issue,4,3684
+PET0810,Dog,Owner_76,Neutering,713,False,26,2025-01-16,Online Booking,Parvovirus,Trauma,4,2852
+PET0007,Bird,Owner_151,Vaccination,180,False,57,2025-01-27,Emergency,Arthritis,Infectious Disease,3,540
+PET0806,Dog,Owner_95,Deworming,711,True,56,2025-03-20,Walk-in,Parvovirus,Infectious Disease,3,2133
+PET0699,Dog,Owner_170,Vaccination,358,True,32,2025-02-23,Emergency,Arthritis,Behavioral Issue,4,1432
+PET0341,Bird,Owner_61,Deworming,819,True,24,2025-02-22,Walk-in,Dental Disease,Chronic Disease,5,4095
+PET0156,Cat,Owner_142,Vaccination,393,True,46,2025-01-06,Online Booking,Dental Disease,Genetic Disorder,4,1572
+PET0958,Dog,Owner_162,Vaccination,541,False,30,2025-02-12,Walk-in,Skin Infection,Trauma,5,2705
+PET0337,Bird,Owner_183,Dental Cleaning,463,True,23,2025-02-14,Referred by Vet,Parvovirus,Infectious Disease,3,1389
+PET0093,Dog,Owner_113,Dental Cleaning,855,False,11,2025-03-13,Online Booking,Ear Infection,Preventative Care,1,855
+PET0097,Bird,Owner_194,Checkup,435,True,20,2025-03-23,Walk-in,Dental Disease,Chronic Disease,3,1305
+PET0848,Dog,Owner_112,Checkup,241,True,48,2025-01-28,Emergency,Arthritis,Behavioral Issue,3,723
+PET0604,Dog,Owner_27,Checkup,326,False,47,2025-01-02,Referred by Vet,Skin Infection,Infectious Disease,2,652
+PET0808,Cat,Owner_49,Dental Cleaning,210,False,43,2025-03-23,Online Booking,Obesity,Genetic Disorder,2,420
+PET0730,Dog,Owner_41,Dental Cleaning,509,False,47,2025-01-26,Online Booking,Arthritis,Behavioral Issue,2,1018
+PET0537,Rabbit,Owner_130,Dental Cleaning,363,True,59,2025-03-30,Referred by Vet,Dental Disease,Chronic Disease,2,726
+PET0974,Dog,Owner_185,Vaccination,71,True,43,2025-02-06,Walk-in,Ear Infection,Infectious Disease,5,355
+PET0379,Dog,Owner_170,Surgery,302,False,27,2025-02-02,Emergency,Ear Infection,Infectious Disease,4,1208
+PET0553,Bird,Owner_19,Deworming,797,False,39,2025-01-09,Walk-in,Dental Disease,Chronic Disease,1,797
+PET0830,Dog,Owner_145,Vaccination,906,True,24,2025-02-09,Emergency,Dental Disease,Preventative Care,3,2718
+PET0619,Cat,Owner_39,Neutering,610,True,36,2025-02-08,Online Booking,Obesity,Trauma,5,3050
+PET0862,Dog,Owner_54,Neutering,524,True,43,2025-03-06,Walk-in,Arthritis,Infectious Disease,1,524
+PET0578,Dog,Owner_135,Dental Cleaning,108,False,47,2025-03-12,Referred by Vet,Ear Infection,Genetic Disorder,5,540
+PET0705,Rabbit,Owner_121,Surgery,560,True,42,2025-02-11,Emergency,Parvovirus,Genetic Disorder,5,2800
+PET0046,Rabbit,Owner_175,Surgery,731,False,33,2025-01-01,Walk-in,Arthritis,Infectious Disease,3,2193
+PET0228,Rabbit,Owner_38,Dental Cleaning,525,True,24,2025-01-15,Referred by Vet,Parvovirus,Trauma,4,2100
+PET0290,Cat,Owner_153,Vaccination,749,True,39,2025-03-29,Referred by Vet,Parvovirus,Chronic Disease,2,1498
+PET0080,Bird,Owner_145,Dental Cleaning,832,True,51,2025-02-12,Emergency,Dental Disease,Infectious Disease,4,3328
+PET0233,Rabbit,Owner_112,Dental Cleaning,239,False,26,2025-02-13,Online Booking,Skin Infection,Genetic Disorder,3,717
+PET0102,Dog,Owner_96,Vaccination,736,False,14,2025-02-20,Emergency,Obesity,Chronic Disease,3,2208
+PET0278,Rabbit,Owner_174,Deworming,612,True,38,2025-03-14,Walk-in,Ear Infection,Genetic Disorder,3,1836
+PET0636,Bird,Owner_67,Dental Cleaning,925,False,13,2025-03-20,Referred by Vet,Ear Infection,Behavioral Issue,1,925
+PET0365,Dog,Owner_192,Neutering,616,True,19,2025-01-04,Online Booking,Arthritis,Genetic Disorder,4,2464
+PET0371,Bird,Owner_4,Neutering,293,True,26,2025-01-23,Online Booking,Skin Infection,Preventative Care,4,1172
+PET0210,Bird,Owner_188,Surgery,881,False,19,2025-01-25,Referred by Vet,Arthritis,Genetic Disorder,5,4405
+PET0267,Rabbit,Owner_193,Vaccination,554,True,26,2025-02-12,Online Booking,Ear Infection,Behavioral Issue,5,2770
+PET0937,Cat,Owner_24,Surgery,180,True,29,2025-02-13,Referred by Vet,Skin Infection,Trauma,5,900
+PET0649,Bird,Owner_200,Dental Cleaning,534,True,33,2025-03-28,Referred by Vet,Obesity,Chronic Disease,3,1602
+PET0610,Dog,Owner_96,Deworming,868,False,14,2025-03-03,Emergency,Obesity,Infectious Disease,4,3472
+PET0172,Cat,Owner_49,Neutering,696,False,43,2025-03-02,Online Booking,Skin Infection,Infectious Disease,3,2088
+PET0730,Cat,Owner_121,Neutering,70,False,15,2025-01-05,Walk-in,Dental Disease,Genetic Disorder,1,70
+PET0164,Rabbit,Owner_41,Dental Cleaning,890,False,11,2025-03-24,Online Booking,Parvovirus,Genetic Disorder,5,4450
+PET0380,Cat,Owner_184,Neutering,216,False,22,2025-01-18,Referred by Vet,Parvovirus,Behavioral Issue,3,648
+PET0990,Bird,Owner_111,Dental Cleaning,323,True,52,2025-03-03,Walk-in,Parvovirus,Trauma,3,969
+PET0640,Dog,Owner_156,Dental Cleaning,437,False,52,2025-01-20,Referred by Vet,Parvovirus,Chronic Disease,1,437
+PET0557,Dog,Owner_77,Vaccination,650,True,57,2025-03-22,Referred by Vet,Ear Infection,Infectious Disease,2,1300
+PET0685,Rabbit,Owner_107,Checkup,365,True,20,2025-02-28,Online Booking,Ear Infection,Trauma,4,1460
+PET0843,Dog,Owner_72,Checkup,63,True,56,2025-03-10,Emergency,Dental Disease,Behavioral Issue,2,126
+PET0776,Cat,Owner_53,Vaccination,291,True,32,2025-02-12,Online Booking,Arthritis,Trauma,5,1455
+PET0230,Rabbit,Owner_103,Neutering,826,False,25,2025-03-01,Online Booking,Arthritis,Chronic Disease,3,2478
+PET0033,Rabbit,Owner_100,Surgery,395,False,40,2025-02-22,Walk-in,Skin Infection,Genetic Disorder,1,395
+PET0316,Cat,Owner_20,Deworming,614,False,20,2025-01-08,Online Booking,Arthritis,Chronic Disease,1,614
+PET0268,Bird,Owner_197,Surgery,947,True,25,2025-03-08,Emergency,Obesity,Behavioral Issue,4,3788
+PET0211,Rabbit,Owner_94,Surgery,389,False,17,2025-02-08,Walk-in,Dental Disease,Genetic Disorder,2,778
+PET0943,Cat,Owner_168,Deworming,141,True,13,2025-03-14,Online Booking,Dental Disease,Genetic Disorder,4,564
+PET0877,Rabbit,Owner_183,Checkup,416,True,49,2025-03-28,Emergency,Skin Infection,Chronic Disease,3,1248
+PET0315,Dog,Owner_75,Neutering,504,True,13,2025-02-10,Online Booking,Skin Infection,Chronic Disease,4,2016
+PET0656,Rabbit,Owner_83,Surgery,477,False,34,2025-03-13,Walk-in,Parvovirus,Trauma,1,477
+PET0396,Bird,Owner_113,Deworming,558,True,12,2025-03-10,Referred by Vet,Parvovirus,Infectious Disease,1,558
+PET0915,Rabbit,Owner_45,Neutering,825,True,41,2025-01-03,Emergency,Parvovirus,Chronic Disease,5,4125
+PET0459,Bird,Owner_30,Deworming,992,True,12,2025-01-27,Referred by Vet,Obesity,Preventative Care,5,4960
+PET0265,Rabbit,Owner_53,Neutering,84,True,36,2025-03-15,Walk-in,Ear Infection,Chronic Disease,3,252
+PET0247,Dog,Owner_187,Vaccination,255,True,38,2025-03-29,Emergency,Skin Infection,Chronic Disease,2,510
+PET0562,Cat,Owner_116,Deworming,130,True,41,2025-02-12,Walk-in,Ear Infection,Preventative Care,4,520
+PET0263,Dog,Owner_84,Checkup,981,False,59,2025-02-15,Emergency,Arthritis,Behavioral Issue,3,2943
+PET0585,Cat,Owner_31,Surgery,611,False,28,2025-01-09,Walk-in,Dental Disease,Infectious Disease,5,3055
+PET0898,Cat,Owner_66,Deworming,921,False,30,2025-01-20,Online Booking,Arthritis,Chronic Disease,4,3684
+PET0400,Cat,Owner_76,Checkup,437,False,14,2025-02-05,Walk-in,Ear Infection,Trauma,5,2185
+PET0220,Dog,Owner_167,Checkup,51,False,27,2025-01-04,Walk-in,Parvovirus,Chronic Disease,4,204
+PET0998,Cat,Owner_100,Surgery,439,False,37,2025-02-13,Referred by Vet,Parvovirus,Trauma,2,878
+PET0510,Rabbit,Owner_131,Vaccination,615,False,51,2025-02-18,Online Booking,Arthritis,Chronic Disease,3,1845
+PET0091,Cat,Owner_137,Checkup,155,False,31,2025-03-22,Emergency,Obesity,Trauma,4,620
+PET0048,Dog,Owner_52,Dental Cleaning,821,True,30,2025-03-10,Online Booking,Ear Infection,Trauma,1,821
+PET0110,Bird,Owner_165,Deworming,871,True,15,2025-01-22,Walk-in,Ear Infection,Infectious Disease,1,871
+PET0628,Dog,Owner_194,Deworming,526,False,10,2025-03-15,Emergency,Obesity,Genetic Disorder,4,2104
+PET0793,Bird,Owner_129,Checkup,752,False,14,2025-03-19,Walk-in,Arthritis,Preventative Care,4,3008
+PET0423,Dog,Owner_99,Vaccination,451,True,50,2025-02-19,Referred by Vet,Arthritis,Trauma,4,1804
+PET0064,Dog,Owner_34,Neutering,779,True,21,2025-01-24,Referred by Vet,Dental Disease,Infectious Disease,1,779
+PET0382,Rabbit,Owner_159,Deworming,605,False,35,2025-03-18,Emergency,Skin Infection,Chronic Disease,1,605
+PET0997,Bird,Owner_34,Neutering,211,False,55,2025-01-15,Referred by Vet,Skin Infection,Chronic Disease,4,844
+PET0530,Rabbit,Owner_145,Deworming,251,True,43,2025-02-09,Walk-in,Arthritis,Preventative Care,5,1255
+PET0972,Rabbit,Owner_98,Surgery,319,True,58,2025-02-10,Referred by Vet,Arthritis,Behavioral Issue,5,1595
+PET0861,Rabbit,Owner_184,Deworming,912,True,23,2025-01-05,Referred by Vet,Obesity,Infectious Disease,2,1824
+PET0012,Cat,Owner_109,Dental Cleaning,865,True,35,2025-02-04,Emergency,Obesity,Preventative Care,3,2595
+PET0721,Dog,Owner_129,Deworming,320,True,54,2025-02-22,Walk-in,Skin Infection,Behavioral Issue,5,1600
+PET0682,Cat,Owner_12,Deworming,505,True,36,2025-01-12,Emergency,Obesity,Behavioral Issue,1,505
+PET0537,Rabbit,Owner_7,Vaccination,511,False,18,2025-03-05,Emergency,Arthritis,Chronic Disease,5,2555
+PET0267,Bird,Owner_170,Neutering,776,False,35,2025-01-31,Emergency,Skin Infection,Behavioral Issue,2,1552
+PET0641,Bird,Owner_190,Neutering,301,True,56,2025-02-17,Referred by Vet,Dental Disease,Preventative Care,2,602
+PET0112,Rabbit,Owner_134,Dental Cleaning,751,True,31,2025-02-27,Emergency,Parvovirus,Behavioral Issue,3,2253
+PET0435,Bird,Owner_153,Dental Cleaning,345,False,56,2025-02-08,Online Booking,Ear Infection,Genetic Disorder,5,1725
+PET0454,Rabbit,Owner_83,Neutering,774,False,39,2025-01-28,Online Booking,Skin Infection,Genetic Disorder,1,774
+PET0954,Cat,Owner_169,Deworming,769,False,52,2025-03-09,Online Booking,Skin Infection,Behavioral Issue,1,769
+PET0876,Rabbit,Owner_47,Checkup,798,True,57,2025-02-08,Online Booking,Skin Infection,Genetic Disorder,4,3192
+PET0264,Dog,Owner_142,Surgery,387,True,26,2025-01-23,Walk-in,Ear Infection,Chronic Disease,1,387
+PET0501,Rabbit,Owner_2,Surgery,928,True,35,2025-01-15,Online Booking,Skin Infection,Preventative Care,3,2784
+PET0179,Dog,Owner_102,Neutering,102,False,45,2025-02-17,Referred by Vet,Obesity,Behavioral Issue,3,306
+PET0913,Dog,Owner_75,Neutering,841,False,10,2025-01-05,Walk-in,Parvovirus,Chronic Disease,1,841
+PET0871,Bird,Owner_124,Vaccination,971,True,17,2025-01-26,Online Booking,Dental Disease,Behavioral Issue,1,971
+PET0299,Cat,Owner_134,Surgery,266,False,58,2025-01-12,Referred by Vet,Dental Disease,Trauma,4,1064
+PET0639,Bird,Owner_124,Checkup,813,True,44,2025-02-26,Online Booking,Skin Infection,Trauma,1,813
+PET0609,Rabbit,Owner_97,Deworming,237,False,24,2025-03-06,Walk-in,Dental Disease,Preventative Care,4,948
+PET0153,Bird,Owner_98,Deworming,429,True,56,2025-01-04,Referred by Vet,Dental Disease,Preventative Care,4,1716
+PET0763,Bird,Owner_2,Surgery,542,False,31,2025-03-03,Emergency,Ear Infection,Trauma,1,542
+PET0540,Bird,Owner_111,Vaccination,90,False,23,2025-03-06,Referred by Vet,Skin Infection,Preventative Care,2,180
+PET0779,Bird,Owner_3,Dental Cleaning,206,True,35,2025-01-20,Online Booking,Arthritis,Chronic Disease,2,412
+PET0531,Rabbit,Owner_106,Surgery,64,True,37,2025-01-25,Emergency,Ear Infection,Preventative Care,4,256
+PET0001,Rabbit,Owner_55,Neutering,862,True,32,2025-02-13,Emergency,Arthritis,Behavioral Issue,1,862
+PET0325,Dog,Owner_196,Neutering,114,True,23,2025-03-03,Referred by Vet,Parvovirus,Chronic Disease,2,228
+PET0020,Bird,Owner_4,Neutering,906,True,33,2025-03-09,Online Booking,Dental Disease,Preventative Care,1,906
+PET0930,Bird,Owner_163,Neutering,888,False,11,2025-02-09,Emergency,Obesity,Behavioral Issue,1,888
+PET0879,Cat,Owner_135,Surgery,570,False,54,2025-02-11,Walk-in,Ear Infection,Chronic Disease,1,570
+PET0832,Dog,Owner_162,Vaccination,393,False,35,2025-01-19,Referred by Vet,Obesity,Genetic Disorder,5,1965
+PET0308,Rabbit,Owner_182,Dental Cleaning,178,False,23,2025-01-13,Referred by Vet,Obesity,Genetic Disorder,1,178
+PET0058,Cat,Owner_22,Vaccination,697,False,16,2025-03-08,Emergency,Obesity,Preventative Care,5,3485
+PET0879,Cat,Owner_20,Surgery,521,False,12,2025-03-28,Referred by Vet,Obesity,Infectious Disease,4,2084
+PET0947,Dog,Owner_30,Checkup,112,False,56,2025-01-17,Walk-in,Obesity,Trauma,2,224
+PET0086,Bird,Owner_39,Vaccination,188,False,32,2025-01-27,Online Booking,Ear Infection,Chronic Disease,2,376
+PET0486,Rabbit,Owner_106,Deworming,548,False,55,2025-01-05,Walk-in,Arthritis,Infectious Disease,2,1096
+PET0070,Cat,Owner_164,Dental Cleaning,642,False,52,2025-02-28,Online Booking,Dental Disease,Chronic Disease,2,1284
+PET0761,Dog,Owner_54,Dental Cleaning,441,False,56,2025-02-19,Emergency,Obesity,Infectious Disease,2,882
+PET0766,Rabbit,Owner_80,Checkup,724,False,54,2025-03-08,Referred by Vet,Obesity,Behavioral Issue,2,1448
+PET0129,Dog,Owner_75,Deworming,468,True,27,2025-01-15,Referred by Vet,Parvovirus,Preventative Care,2,936
+PET0476,Rabbit,Owner_82,Deworming,338,True,47,2025-01-01,Emergency,Dental Disease,Behavioral Issue,4,1352
+PET0550,Dog,Owner_114,Vaccination,428,False,44,2025-02-09,Referred by Vet,Arthritis,Genetic Disorder,1,428
+PET0266,Cat,Owner_199,Checkup,822,True,24,2025-01-06,Emergency,Parvovirus,Chronic Disease,3,2466
+PET0873,Cat,Owner_46,Dental Cleaning,539,True,34,2025-03-29,Emergency,Skin Infection,Chronic Disease,5,2695
+PET0424,Cat,Owner_137,Dental Cleaning,280,True,46,2025-03-18,Online Booking,Ear Infection,Preventative Care,3,840
+PET0212,Rabbit,Owner_170,Neutering,90,False,37,2025-01-12,Referred by Vet,Dental Disease,Genetic Disorder,3,270
+PET0540,Bird,Owner_131,Checkup,77,False,19,2025-02-12,Referred by Vet,Dental Disease,Preventative Care,1,77
+PET0730,Rabbit,Owner_172,Vaccination,184,False,48,2025-03-01,Walk-in,Parvovirus,Behavioral Issue,1,184
+PET0202,Dog,Owner_152,Deworming,250,True,26,2025-01-06,Online Booking,Parvovirus,Preventative Care,1,250
+PET0312,Dog,Owner_19,Vaccination,889,True,48,2025-01-14,Walk-in,Ear Infection,Chronic Disease,2,1778
+PET0996,Dog,Owner_76,Deworming,829,False,31,2025-03-08,Referred by Vet,Skin Infection,Infectious Disease,4,3316
+PET0650,Rabbit,Owner_111,Neutering,979,False,35,2025-03-26,Referred by Vet,Parvovirus,Behavioral Issue,2,1958
+PET0439,Rabbit,Owner_12,Checkup,82,True,53,2025-02-09,Online Booking,Obesity,Chronic Disease,4,328
+PET0518,Cat,Owner_2,Dental Cleaning,97,False,34,2025-01-03,Online Booking,Ear Infection,Chronic Disease,4,388
+PET0122,Rabbit,Owner_35,Neutering,552,True,26,2025-03-15,Walk-in,Parvovirus,Preventative Care,3,1656
+PET0225,Cat,Owner_100,Surgery,456,True,22,2025-02-09,Referred by Vet,Parvovirus,Behavioral Issue,3,1368
+PET0339,Cat,Owner_87,Dental Cleaning,623,False,29,2025-03-23,Referred by Vet,Skin Infection,Preventative Care,4,2492
+PET0589,Cat,Owner_157,Dental Cleaning,777,False,34,2025-01-27,Walk-in,Arthritis,Chronic Disease,4,3108
+PET0231,Bird,Owner_114,Checkup,854,True,13,2025-02-11,Online Booking,Parvovirus,Genetic Disorder,2,1708
+PET0221,Dog,Owner_172,Checkup,148,False,19,2025-01-26,Emergency,Dental Disease,Genetic Disorder,2,296
+PET0071,Cat,Owner_20,Checkup,733,True,12,2025-01-25,Referred by Vet,Dental Disease,Preventative Care,3,2199
+PET0632,Cat,Owner_106,Deworming,921,True,50,2025-02-06,Online Booking,Skin Infection,Trauma,1,921
+PET0229,Rabbit,Owner_9,Checkup,775,False,54,2025-02-05,Online Booking,Skin Infection,Chronic Disease,4,3100
+PET0906,Cat,Owner_43,Surgery,596,True,27,2025-03-10,Emergency,Parvovirus,Trauma,2,1192
+PET0860,Rabbit,Owner_174,Vaccination,788,False,56,2025-02-10,Emergency,Ear Infection,Infectious Disease,3,2364
+PET0071,Dog,Owner_178,Dental Cleaning,662,False,45,2025-02-26,Walk-in,Dental Disease,Behavioral Issue,2,1324
+PET0239,Cat,Owner_96,Surgery,992,False,56,2025-03-27,Walk-in,Parvovirus,Infectious Disease,4,3968
+PET0669,Rabbit,Owner_10,Vaccination,511,True,31,2025-01-16,Walk-in,Obesity,Chronic Disease,4,2044
+PET0215,Dog,Owner_15,Deworming,692,True,43,2025-02-04,Referred by Vet,Arthritis,Preventative Care,5,3460
+PET0133,Cat,Owner_186,Deworming,818,False,56,2025-01-20,Walk-in,Obesity,Infectious Disease,1,818
+PET0936,Dog,Owner_180,Vaccination,54,False,17,2025-01-21,Referred by Vet,Obesity,Chronic Disease,5,270
+PET0572,Dog,Owner_113,Dental Cleaning,267,True,49,2025-02-05,Walk-in,Ear Infection,Infectious Disease,3,801
+PET0473,Cat,Owner_7,Checkup,552,True,58,2025-01-15,Emergency,Skin Infection,Preventative Care,2,1104
+PET0785,Cat,Owner_186,Deworming,816,True,53,2025-01-02,Walk-in,Skin Infection,Genetic Disorder,3,2448
+PET0808,Dog,Owner_63,Dental Cleaning,447,False,28,2025-03-21,Referred by Vet,Ear Infection,Behavioral Issue,4,1788
+PET0191,Rabbit,Owner_193,Neutering,920,True,51,2025-03-13,Referred by Vet,Parvovirus,Chronic Disease,5,4600
+PET0097,Dog,Owner_118,Deworming,844,True,50,2025-03-07,Referred by Vet,Parvovirus,Infectious Disease,5,4220
+PET0432,Cat,Owner_151,Checkup,442,False,46,2025-01-14,Emergency,Arthritis,Genetic Disorder,5,2210
+PET0424,Rabbit,Owner_143,Dental Cleaning,256,False,15,2025-01-27,Walk-in,Obesity,Chronic Disease,3,768
+PET0468,Rabbit,Owner_80,Checkup,64,False,35,2025-03-11,Referred by Vet,Ear Infection,Genetic Disorder,4,256
+PET0730,Bird,Owner_16,Surgery,907,False,43,2025-02-14,Online Booking,Obesity,Chronic Disease,2,1814
+PET0674,Bird,Owner_33,Surgery,603,False,54,2025-03-12,Referred by Vet,Parvovirus,Chronic Disease,2,1206
+PET0985,Dog,Owner_49,Vaccination,941,False,15,2025-02-10,Referred by Vet,Parvovirus,Chronic Disease,3,2823
+PET0099,Bird,Owner_167,Vaccination,510,True,46,2025-02-04,Walk-in,Arthritis,Chronic Disease,5,2550
+PET0403,Dog,Owner_78,Neutering,740,True,42,2025-01-19,Referred by Vet,Ear Infection,Trauma,1,740
+PET0340,Dog,Owner_180,Surgery,624,False,31,2025-02-06,Referred by Vet,Ear Infection,Preventative Care,3,1872
+PET0862,Bird,Owner_67,Dental Cleaning,913,True,30,2025-03-15,Walk-in,Parvovirus,Chronic Disease,3,2739
+PET0249,Bird,Owner_152,Deworming,792,False,15,2025-02-01,Emergency,Dental Disease,Genetic Disorder,4,3168
+PET0191,Rabbit,Owner_28,Surgery,290,False,15,2025-01-22,Online Booking,Skin Infection,Infectious Disease,2,580
+PET0449,Rabbit,Owner_198,Neutering,613,False,57,2025-01-10,Referred by Vet,Arthritis,Behavioral Issue,3,1839
+PET0422,Rabbit,Owner_145,Vaccination,145,True,13,2025-02-09,Emergency,Obesity,Trauma,3,435
+PET0279,Cat,Owner_101,Deworming,949,False,39,2025-03-20,Referred by Vet,Parvovirus,Chronic Disease,5,4745
+PET0250,Dog,Owner_195,Checkup,783,False,20,2025-02-13,Referred by Vet,Arthritis,Trauma,5,3915
+PET0924,Dog,Owner_11,Checkup,534,True,39,2025-03-11,Online Booking,Skin Infection,Preventative Care,1,534
+PET0444,Cat,Owner_88,Dental Cleaning,456,True,40,2025-02-26,Online Booking,Parvovirus,Genetic Disorder,4,1824
+PET0862,Bird,Owner_168,Neutering,280,False,33,2025-01-07,Emergency,Ear Infection,Genetic Disorder,1,280
+PET0551,Rabbit,Owner_69,Vaccination,798,True,18,2025-01-17,Walk-in,Skin Infection,Genetic Disorder,5,3990
+PET0051,Bird,Owner_154,Surgery,704,False,12,2025-01-04,Emergency,Skin Infection,Genetic Disorder,2,1408
+PET1000,Bird,Owner_191,Deworming,220,True,40,2025-03-02,Online Booking,Obesity,Infectious Disease,5,1100
+PET0837,Dog,Owner_80,Deworming,590,False,49,2025-03-28,Referred by Vet,Dental Disease,Trauma,4,2360
+PET0969,Bird,Owner_155,Surgery,85,False,46,2025-01-07,Emergency,Obesity,Behavioral Issue,5,425
+PET0927,Dog,Owner_6,Checkup,574,True,45,2025-01-14,Emergency,Skin Infection,Genetic Disorder,4,2296
+PET0849,Rabbit,Owner_55,Dental Cleaning,209,False,33,2025-02-19,Online Booking,Arthritis,Behavioral Issue,4,836
+PET0167,Rabbit,Owner_199,Neutering,888,True,40,2025-01-07,Walk-in,Parvovirus,Preventative Care,4,3552
+PET0486,Cat,Owner_99,Vaccination,748,False,15,2025-01-12,Emergency,Skin Infection,Infectious Disease,4,2992
+PET0214,Cat,Owner_72,Checkup,292,False,11,2025-02-24,Referred by Vet,Obesity,Genetic Disorder,4,1168
+PET0402,Cat,Owner_189,Checkup,135,True,29,2025-02-20,Referred by Vet,Skin Infection,Chronic Disease,2,270
+PET0059,Cat,Owner_87,Vaccination,845,False,37,2025-01-23,Online Booking,Arthritis,Trauma,1,845
+PET0379,Dog,Owner_136,Deworming,627,True,20,2025-03-18,Referred by Vet,Parvovirus,Trauma,3,1881
+PET0986,Rabbit,Owner_133,Surgery,731,True,13,2025-03-17,Walk-in,Obesity,Trauma,1,731
+PET0266,Dog,Owner_18,Surgery,606,False,24,2025-03-22,Walk-in,Skin Infection,Preventative Care,4,2424
+PET0785,Rabbit,Owner_124,Vaccination,623,True,15,2025-03-30,Emergency,Dental Disease,Infectious Disease,2,1246
+PET0456,Bird,Owner_160,Dental Cleaning,695,False,58,2025-03-31,Emergency,Obesity,Infectious Disease,5,3475
+PET0424,Cat,Owner_143,Checkup,845,True,39,2025-02-27,Walk-in,Skin Infection,Trauma,2,1690
+PET0958,Rabbit,Owner_17,Dental Cleaning,77,False,47,2025-03-20,Online Booking,Skin Infection,Infectious Disease,4,308
+PET0996,Bird,Owner_31,Deworming,669,True,11,2025-02-15,Referred by Vet,Skin Infection,Chronic Disease,2,1338
+PET0556,Bird,Owner_143,Surgery,605,True,24,2025-02-09,Walk-in,Ear Infection,Infectious Disease,2,1210
+PET0719,Dog,Owner_127,Neutering,389,False,20,2025-02-12,Emergency,Obesity,Preventative Care,4,1556
+PET0155,Dog,Owner_148,Neutering,847,True,17,2025-01-26,Referred by Vet,Skin Infection,Genetic Disorder,2,1694
+PET0297,Dog,Owner_64,Neutering,380,True,35,2025-03-27,Emergency,Parvovirus,Trauma,3,1140
+PET0969,Rabbit,Owner_22,Dental Cleaning,689,True,54,2025-03-10,Walk-in,Parvovirus,Behavioral Issue,3,2067
+PET0580,Bird,Owner_2,Neutering,555,False,53,2025-01-11,Emergency,Parvovirus,Behavioral Issue,2,1110
+PET0543,Rabbit,Owner_62,Checkup,397,True,14,2025-03-01,Walk-in,Obesity,Behavioral Issue,5,1985
+PET0748,Dog,Owner_72,Checkup,522,False,15,2025-03-14,Referred by Vet,Ear Infection,Trauma,4,2088
+PET0058,Bird,Owner_54,Neutering,280,True,35,2025-01-17,Emergency,Parvovirus,Trauma,3,840
+PET0585,Cat,Owner_27,Vaccination,239,True,13,2025-01-12,Online Booking,Dental Disease,Preventative Care,5,1195
+PET0503,Bird,Owner_38,Surgery,274,True,28,2025-03-31,Online Booking,Ear Infection,Preventative Care,2,548
+PET0853,Bird,Owner_90,Surgery,434,False,29,2025-03-01,Referred by Vet,Parvovirus,Trauma,5,2170
+PET0158,Cat,Owner_111,Deworming,426,True,42,2025-01-13,Walk-in,Parvovirus,Infectious Disease,1,426
+PET0961,Bird,Owner_82,Neutering,332,True,29,2025-02-28,Online Booking,Obesity,Behavioral Issue,3,996
+PET0081,Rabbit,Owner_6,Surgery,682,True,58,2025-02-09,Referred by Vet,Arthritis,Trauma,2,1364
+PET0186,Rabbit,Owner_71,Surgery,677,True,21,2025-03-29,Referred by Vet,Arthritis,Preventative Care,4,2708
+PET0596,Rabbit,Owner_19,Dental Cleaning,794,True,56,2025-03-24,Referred by Vet,Ear Infection,Chronic Disease,2,1588
+PET0676,Bird,Owner_120,Vaccination,308,True,10,2025-03-01,Referred by Vet,Parvovirus,Trauma,4,1232
+PET0236,Rabbit,Owner_65,Vaccination,408,True,35,2025-03-02,Online Booking,Arthritis,Chronic Disease,2,816
+PET0120,Dog,Owner_78,Deworming,759,False,23,2025-01-30,Online Booking,Obesity,Behavioral Issue,5,3795
+PET0891,Dog,Owner_59,Surgery,505,True,47,2025-01-29,Walk-in,Arthritis,Genetic Disorder,5,2525
+PET0247,Cat,Owner_78,Deworming,460,False,46,2025-01-19,Emergency,Arthritis,Preventative Care,5,2300
+PET0595,Cat,Owner_17,Dental Cleaning,698,True,20,2025-03-20,Referred by Vet,Dental Disease,Trauma,1,698
+PET0620,Cat,Owner_181,Checkup,367,True,45,2025-02-03,Online Booking,Skin Infection,Genetic Disorder,4,1468
+PET0420,Dog,Owner_182,Deworming,726,False,22,2025-02-16,Online Booking,Obesity,Genetic Disorder,5,3630
+PET0584,Rabbit,Owner_196,Dental Cleaning,274,False,52,2025-02-20,Referred by Vet,Arthritis,Preventative Care,1,274
+PET0523,Cat,Owner_115,Vaccination,868,False,12,2025-01-24,Online Booking,Dental Disease,Behavioral Issue,4,3472
+PET0935,Cat,Owner_34,Checkup,283,False,42,2025-03-31,Online Booking,Obesity,Genetic Disorder,2,566
+PET0205,Dog,Owner_77,Deworming,733,False,15,2025-03-27,Referred by Vet,Ear Infection,Chronic Disease,1,733
+PET0717,Bird,Owner_28,Checkup,713,True,59,2025-02-12,Online Booking,Parvovirus,Infectious Disease,3,2139
+PET0239,Dog,Owner_61,Checkup,876,False,19,2025-02-11,Walk-in,Dental Disease,Genetic Disorder,1,876
+PET0396,Bird,Owner_99,Surgery,423,False,14,2025-02-28,Emergency,Arthritis,Preventative Care,1,423
+PET0672,Bird,Owner_13,Surgery,721,True,32,2025-03-04,Walk-in,Ear Infection,Genetic Disorder,4,2884
+PET0300,Rabbit,Owner_87,Checkup,657,False,19,2025-01-04,Walk-in,Obesity,Genetic Disorder,2,1314
+PET0317,Rabbit,Owner_85,Checkup,521,True,53,2025-01-09,Referred by Vet,Skin Infection,Preventative Care,3,1563
+PET0752,Cat,Owner_97,Surgery,282,False,11,2025-03-02,Online Booking,Dental Disease,Chronic Disease,5,1410
+PET0073,Rabbit,Owner_16,Deworming,741,True,22,2025-01-15,Online Booking,Arthritis,Trauma,5,3705
+PET0459,Bird,Owner_51,Dental Cleaning,162,False,49,2025-02-14,Walk-in,Obesity,Genetic Disorder,1,162
+PET0999,Bird,Owner_50,Neutering,879,True,11,2025-03-03,Online Booking,Arthritis,Chronic Disease,4,3516
+PET0997,Cat,Owner_126,Neutering,546,True,29,2025-03-01,Online Booking,Obesity,Preventative Care,4,2184
+PET0074,Bird,Owner_119,Vaccination,491,True,10,2025-01-22,Walk-in,Ear Infection,Behavioral Issue,5,2455
+PET0214,Rabbit,Owner_40,Checkup,613,False,46,2025-02-06,Referred by Vet,Obesity,Behavioral Issue,3,1839
+PET0266,Cat,Owner_22,Surgery,317,False,18,2025-02-14,Online Booking,Skin Infection,Infectious Disease,2,634
+PET0934,Cat,Owner_61,Dental Cleaning,559,True,26,2025-03-19,Referred by Vet,Dental Disease,Genetic Disorder,3,1677
+PET0881,Dog,Owner_190,Checkup,856,True,18,2025-03-15,Emergency,Dental Disease,Preventative Care,2,1712
+PET0880,Dog,Owner_67,Dental Cleaning,435,True,20,2025-01-17,Emergency,Parvovirus,Behavioral Issue,5,2175
+PET0370,Dog,Owner_125,Surgery,436,False,24,2025-03-07,Online Booking,Skin Infection,Trauma,2,872
+PET0158,Bird,Owner_161,Checkup,162,False,33,2025-01-14,Walk-in,Obesity,Preventative Care,4,648
+PET0834,Cat,Owner_66,Deworming,662,True,47,2025-02-21,Walk-in,Obesity,Behavioral Issue,1,662
+PET0704,Rabbit,Owner_67,Checkup,674,False,44,2025-01-14,Referred by Vet,Parvovirus,Preventative Care,1,674
+PET0612,Rabbit,Owner_164,Surgery,130,False,39,2025-02-11,Emergency,Ear Infection,Chronic Disease,5,650
+PET0988,Dog,Owner_172,Deworming,748,True,40,2025-03-13,Walk-in,Dental Disease,Trauma,4,2992
+PET0654,Dog,Owner_195,Deworming,162,False,58,2025-03-25,Online Booking,Parvovirus,Genetic Disorder,3,486
+PET0008,Cat,Owner_28,Deworming,51,True,14,2025-01-10,Online Booking,Arthritis,Chronic Disease,4,204
+PET0818,Cat,Owner_65,Dental Cleaning,691,False,53,2025-02-08,Referred by Vet,Arthritis,Chronic Disease,1,691
+PET0300,Rabbit,Owner_190,Vaccination,269,True,59,2025-03-10,Emergency,Obesity,Behavioral Issue,1,269
+PET0664,Dog,Owner_41,Vaccination,615,False,23,2025-03-01,Referred by Vet,Parvovirus,Preventative Care,4,2460
+PET0939,Cat,Owner_63,Dental Cleaning,904,False,20,2025-02-21,Walk-in,Parvovirus,Trauma,4,3616
+PET0135,Cat,Owner_193,Checkup,785,True,18,2025-03-17,Walk-in,Obesity,Chronic Disease,1,785
+PET0116,Cat,Owner_194,Checkup,274,True,43,2025-02-22,Referred by Vet,Arthritis,Trauma,3,822
+PET0108,Cat,Owner_59,Dental Cleaning,434,False,21,2025-01-31,Online Booking,Dental Disease,Behavioral Issue,5,2170
+PET0554,Rabbit,Owner_139,Checkup,452,True,44,2025-03-21,Online Booking,Obesity,Genetic Disorder,5,2260
+PET0273,Bird,Owner_99,Neutering,687,True,44,2025-02-01,Referred by Vet,Obesity,Infectious Disease,4,2748
+PET0605,Rabbit,Owner_116,Vaccination,179,False,10,2025-03-12,Emergency,Ear Infection,Preventative Care,5,895
+PET0718,Dog,Owner_49,Neutering,102,True,49,2025-01-21,Online Booking,Parvovirus,Genetic Disorder,1,102
+PET0204,Dog,Owner_76,Checkup,733,False,31,2025-03-03,Referred by Vet,Parvovirus,Trauma,1,733
+PET0635,Rabbit,Owner_164,Dental Cleaning,779,False,38,2025-02-19,Referred by Vet,Skin Infection,Infectious Disease,4,3116
+PET0264,Cat,Owner_79,Checkup,721,False,17,2025-01-09,Emergency,Arthritis,Genetic Disorder,4,2884
+PET0489,Rabbit,Owner_23,Dental Cleaning,759,True,20,2025-02-13,Walk-in,Skin Infection,Behavioral Issue,4,3036
+PET0906,Rabbit,Owner_113,Dental Cleaning,465,True,50,2025-01-27,Walk-in,Parvovirus,Trauma,3,1395
+PET0847,Bird,Owner_119,Dental Cleaning,296,True,46,2025-03-30,Referred by Vet,Arthritis,Chronic Disease,5,1480
+PET0093,Bird,Owner_110,Deworming,885,True,23,2025-03-17,Online Booking,Parvovirus,Behavioral Issue,4,3540
+PET0424,Cat,Owner_137,Neutering,488,True,39,2025-02-25,Walk-in,Dental Disease,Genetic Disorder,2,976
+PET0277,Rabbit,Owner_111,Deworming,252,True,44,2025-02-25,Emergency,Obesity,Infectious Disease,2,504
+PET0004,Dog,Owner_191,Surgery,233,False,30,2025-03-14,Emergency,Skin Infection,Infectious Disease,1,233
+PET0772,Cat,Owner_93,Deworming,172,True,46,2025-02-13,Emergency,Ear Infection,Genetic Disorder,5,860
+PET0638,Bird,Owner_142,Vaccination,450,True,14,2025-03-11,Online Booking,Obesity,Preventative Care,4,1800
+PET0262,Rabbit,Owner_88,Deworming,816,False,28,2025-03-30,Emergency,Ear Infection,Preventative Care,2,1632
+PET0742,Cat,Owner_59,Surgery,343,True,23,2025-01-31,Referred by Vet,Arthritis,Genetic Disorder,5,1715
+PET0552,Rabbit,Owner_139,Deworming,329,False,35,2025-01-23,Emergency,Ear Infection,Chronic Disease,1,329
+PET0428,Bird,Owner_164,Neutering,886,False,13,2025-03-26,Walk-in,Arthritis,Trauma,3,2658
+PET0010,Cat,Owner_160,Dental Cleaning,933,True,34,2025-03-27,Emergency,Arthritis,Genetic Disorder,5,4665
+PET0076,Cat,Owner_82,Vaccination,659,True,54,2025-01-10,Emergency,Arthritis,Chronic Disease,5,3295
+PET0884,Bird,Owner_100,Deworming,247,True,51,2025-03-15,Online Booking,Skin Infection,Chronic Disease,3,741
+PET0904,Bird,Owner_127,Vaccination,956,False,34,2025-03-04,Walk-in,Dental Disease,Behavioral Issue,5,4780
+PET0546,Rabbit,Owner_49,Dental Cleaning,560,False,27,2025-01-15,Walk-in,Obesity,Trauma,1,560
+PET0835,Bird,Owner_132,Neutering,801,False,49,2025-03-17,Referred by Vet,Obesity,Genetic Disorder,1,801
+PET0583,Rabbit,Owner_144,Surgery,193,False,17,2025-03-18,Online Booking,Obesity,Chronic Disease,3,579
+PET0149,Rabbit,Owner_158,Deworming,658,True,48,2025-03-01,Walk-in,Obesity,Infectious Disease,4,2632
+PET0128,Rabbit,Owner_15,Neutering,250,True,49,2025-02-11,Walk-in,Arthritis,Chronic Disease,2,500
+PET0309,Rabbit,Owner_199,Dental Cleaning,173,True,23,2025-03-13,Referred by Vet,Dental Disease,Genetic Disorder,4,692
+PET0899,Cat,Owner_96,Checkup,236,True,41,2025-01-13,Referred by Vet,Dental Disease,Chronic Disease,5,1180
+PET0797,Cat,Owner_81,Checkup,375,False,47,2025-02-26,Online Booking,Arthritis,Behavioral Issue,2,750
+PET0861,Cat,Owner_102,Neutering,513,False,42,2025-01-23,Referred by Vet,Obesity,Trauma,3,1539
+PET0899,Dog,Owner_185,Surgery,398,True,32,2025-02-09,Referred by Vet,Skin Infection,Preventative Care,3,1194
+PET0211,Dog,Owner_139,Dental Cleaning,820,True,24,2025-02-21,Emergency,Parvovirus,Preventative Care,2,1640
+PET0250,Bird,Owner_109,Surgery,709,False,42,2025-01-09,Online Booking,Obesity,Behavioral Issue,1,709
+PET0103,Cat,Owner_159,Vaccination,813,True,34,2025-03-18,Emergency,Obesity,Infectious Disease,2,1626
+PET0781,Dog,Owner_72,Dental Cleaning,981,True,26,2025-01-14,Online Booking,Parvovirus,Chronic Disease,5,4905
+PET0885,Dog,Owner_180,Checkup,452,True,42,2025-03-29,Walk-in,Parvovirus,Trauma,1,452
+PET0407,Dog,Owner_108,Dental Cleaning,395,False,56,2025-03-18,Walk-in,Ear Infection,Chronic Disease,3,1185
+PET0621,Bird,Owner_128,Checkup,560,False,11,2025-02-18,Online Booking,Skin Infection,Trauma,2,1120
+PET0155,Dog,Owner_17,Neutering,196,True,23,2025-02-11,Emergency,Skin Infection,Preventative Care,4,784
+PET0930,Bird,Owner_154,Checkup,197,True,49,2025-03-05,Online Booking,Skin Infection,Trauma,4,788
+PET0865,Bird,Owner_132,Vaccination,913,True,49,2025-03-24,Online Booking,Arthritis,Genetic Disorder,5,4565
+PET0977,Bird,Owner_72,Surgery,760,False,48,2025-03-26,Emergency,Arthritis,Infectious Disease,4,3040
+PET0811,Dog,Owner_130,Surgery,869,True,15,2025-01-08,Referred by Vet,Arthritis,Infectious Disease,2,1738
+PET0882,Cat,Owner_9,Neutering,538,False,15,2025-01-12,Emergency,Skin Infection,Genetic Disorder,2,1076
+PET0025,Bird,Owner_197,Deworming,978,True,12,2025-01-28,Emergency,Dental Disease,Infectious Disease,4,3912
+PET0737,Dog,Owner_136,Neutering,985,False,16,2025-01-18,Walk-in,Skin Infection,Preventative Care,2,1970
+PET0333,Cat,Owner_80,Vaccination,689,False,17,2025-03-16,Emergency,Skin Infection,Behavioral Issue,5,3445
+PET0931,Dog,Owner_151,Dental Cleaning,600,True,51,2025-03-23,Online Booking,Skin Infection,Infectious Disease,1,600
+PET0803,Bird,Owner_194,Neutering,387,True,24,2025-01-01,Walk-in,Ear Infection,Preventative Care,5,1935
+PET0865,Bird,Owner_87,Vaccination,921,False,56,2025-01-19,Emergency,Skin Infection,Infectious Disease,5,4605
+PET0811,Bird,Owner_3,Dental Cleaning,690,False,38,2025-03-26,Referred by Vet,Ear Infection,Preventative Care,2,1380
+PET0267,Dog,Owner_52,Checkup,828,True,42,2025-01-20,Referred by Vet,Obesity,Behavioral Issue,1,828
+PET0788,Cat,Owner_103,Dental Cleaning,522,True,39,2025-02-27,Referred by Vet,Parvovirus,Genetic Disorder,2,1044
+PET0109,Cat,Owner_104,Checkup,995,False,48,2025-03-10,Online Booking,Parvovirus,Behavioral Issue,3,2985
+PET0873,Rabbit,Owner_117,Surgery,200,False,36,2025-02-07,Walk-in,Obesity,Trauma,2,400
+PET0859,Dog,Owner_116,Dental Cleaning,464,True,45,2025-02-19,Walk-in,Parvovirus,Trauma,2,928
+PET0223,Cat,Owner_90,Checkup,347,False,38,2025-03-20,Walk-in,Obesity,Trauma,2,694
+PET0817,Cat,Owner_79,Neutering,660,False,47,2025-03-15,Walk-in,Ear Infection,Trauma,1,660
+PET0461,Rabbit,Owner_155,Vaccination,312,False,42,2025-02-27,Online Booking,Parvovirus,Behavioral Issue,2,624
+PET0306,Cat,Owner_118,Neutering,813,False,46,2025-01-26,Emergency,Dental Disease,Behavioral Issue,1,813
+PET0796,Rabbit,Owner_101,Surgery,193,False,36,2025-01-27,Online Booking,Skin Infection,Genetic Disorder,4,772
+PET0228,Cat,Owner_69,Dental Cleaning,395,False,42,2025-03-29,Emergency,Obesity,Behavioral Issue,3,1185
+PET0024,Bird,Owner_5,Checkup,673,True,13,2025-02-10,Emergency,Ear Infection,Preventative Care,1,673
+PET0194,Cat,Owner_21,Dental Cleaning,621,True,31,2025-02-08,Emergency,Skin Infection,Trauma,4,2484
+PET0329,Bird,Owner_84,Dental Cleaning,930,False,11,2025-03-14,Online Booking,Ear Infection,Infectious Disease,1,930
+PET0865,Cat,Owner_193,Checkup,51,False,19,2025-03-28,Walk-in,Arthritis,Trauma,1,51
+PET0967,Bird,Owner_24,Surgery,946,True,14,2025-02-08,Referred by Vet,Skin Infection,Chronic Disease,3,2838
+PET0280,Bird,Owner_189,Neutering,353,True,19,2025-02-25,Walk-in,Parvovirus,Infectious Disease,5,1765
+PET0642,Cat,Owner_29,Deworming,303,True,42,2025-02-14,Online Booking,Arthritis,Trauma,5,1515
+PET0400,Cat,Owner_63,Deworming,701,True,47,2025-01-12,Online Booking,Parvovirus,Genetic Disorder,1,701
+PET0982,Cat,Owner_92,Neutering,502,True,22,2025-03-16,Referred by Vet,Parvovirus,Genetic Disorder,2,1004
+PET0537,Rabbit,Owner_42,Deworming,86,False,40,2025-01-02,Referred by Vet,Skin Infection,Behavioral Issue,4,344
+PET0940,Bird,Owner_97,Neutering,209,False,56,2025-03-20,Referred by Vet,Ear Infection,Infectious Disease,2,418
+PET0116,Bird,Owner_96,Dental Cleaning,58,True,45,2025-03-07,Online Booking,Dental Disease,Preventative Care,2,116
+PET0971,Bird,Owner_88,Deworming,282,True,54,2025-02-21,Online Booking,Skin Infection,Behavioral Issue,1,282
+PET0179,Dog,Owner_140,Deworming,148,True,33,2025-01-17,Emergency,Obesity,Chronic Disease,1,148
+PET0963,Cat,Owner_64,Neutering,708,False,24,2025-02-07,Online Booking,Parvovirus,Genetic Disorder,1,708
+PET0266,Rabbit,Owner_61,Dental Cleaning,865,False,38,2025-01-08,Referred by Vet,Arthritis,Genetic Disorder,1,865
+PET0109,Bird,Owner_163,Checkup,257,True,17,2025-02-17,Emergency,Parvovirus,Trauma,5,1285
+PET0435,Rabbit,Owner_24,Vaccination,180,True,14,2025-03-12,Walk-in,Ear Infection,Preventative Care,1,180
+PET0729,Dog,Owner_170,Checkup,453,True,38,2025-01-07,Online Booking,Ear Infection,Preventative Care,5,2265
+PET0314,Bird,Owner_130,Surgery,201,True,56,2025-01-01,Walk-in,Dental Disease,Trauma,5,1005
+PET0607,Bird,Owner_136,Dental Cleaning,103,True,13,2025-03-13,Online Booking,Obesity,Trauma,1,103
+PET0512,Cat,Owner_33,Neutering,169,True,21,2025-02-15,Walk-in,Skin Infection,Chronic Disease,3,507
+PET0386,Bird,Owner_197,Surgery,722,True,54,2025-01-15,Walk-in,Parvovirus,Behavioral Issue,4,2888
+PET0577,Cat,Owner_49,Vaccination,969,True,11,2025-02-06,Walk-in,Skin Infection,Behavioral Issue,2,1938
+PET0255,Bird,Owner_35,Deworming,677,False,36,2025-01-04,Walk-in,Ear Infection,Genetic Disorder,5,3385
+PET0709,Dog,Owner_33,Dental Cleaning,636,True,40,2025-01-31,Walk-in,Skin Infection,Infectious Disease,4,2544
+PET0002,Cat,Owner_112,Surgery,674,True,45,2025-02-25,Emergency,Arthritis,Trauma,3,2022
+PET0926,Bird,Owner_192,Vaccination,469,False,45,2025-03-31,Online Booking,Arthritis,Infectious Disease,2,938
+PET0539,Dog,Owner_47,Deworming,471,True,35,2025-03-17,Walk-in,Ear Infection,Genetic Disorder,2,942
+PET0720,Cat,Owner_82,Surgery,153,True,52,2025-02-20,Online Booking,Obesity,Chronic Disease,5,765
+PET0742,Cat,Owner_37,Surgery,901,True,36,2025-03-22,Online Booking,Skin Infection,Trauma,1,901
+PET0671,Dog,Owner_129,Vaccination,303,True,14,2025-02-10,Walk-in,Obesity,Preventative Care,3,909
+PET0365,Dog,Owner_87,Checkup,276,True,29,2025-02-18,Walk-in,Arthritis,Trauma,5,1380
+PET0070,Rabbit,Owner_6,Neutering,161,False,20,2025-02-21,Online Booking,Obesity,Preventative Care,3,483
+PET0665,Dog,Owner_123,Neutering,559,False,19,2025-02-18,Emergency,Arthritis,Infectious Disease,1,559
+PET0331,Bird,Owner_40,Surgery,522,False,49,2025-02-25,Walk-in,Skin Infection,Trauma,1,522
+PET0314,Cat,Owner_119,Neutering,148,False,47,2025-03-11,Walk-in,Skin Infection,Behavioral Issue,5,740
+PET0849,Dog,Owner_78,Vaccination,202,True,15,2025-01-28,Referred by Vet,Skin Infection,Behavioral Issue,1,202
+PET0720,Bird,Owner_141,Checkup,910,False,17,2025-03-26,Walk-in,Ear Infection,Behavioral Issue,4,3640
+PET0301,Bird,Owner_42,Surgery,963,False,32,2025-01-23,Emergency,Dental Disease,Behavioral Issue,2,1926
+PET0310,Rabbit,Owner_151,Dental Cleaning,945,True,56,2025-03-02,Online Booking,Obesity,Behavioral Issue,5,4725
+PET0409,Bird,Owner_162,Surgery,927,False,35,2025-01-18,Online Booking,Arthritis,Genetic Disorder,3,2781
+PET0403,Dog,Owner_13,Surgery,387,True,55,2025-01-25,Online Booking,Skin Infection,Chronic Disease,4,1548
+PET0296,Cat,Owner_21,Dental Cleaning,755,True,52,2025-03-13,Walk-in,Dental Disease,Chronic Disease,5,3775
+PET0128,Bird,Owner_175,Surgery,871,False,21,2025-02-19,Online Booking,Skin Infection,Infectious Disease,1,871
+PET0421,Rabbit,Owner_38,Vaccination,212,False,35,2025-02-16,Walk-in,Arthritis,Preventative Care,1,212
+PET0941,Dog,Owner_66,Checkup,769,True,22,2025-02-23,Referred by Vet,Ear Infection,Preventative Care,1,769
+PET0678,Rabbit,Owner_92,Vaccination,730,False,49,2025-01-20,Walk-in,Ear Infection,Behavioral Issue,1,730
+PET0903,Cat,Owner_53,Checkup,210,True,27,2025-02-06,Online Booking,Obesity,Preventative Care,3,630
+PET0616,Dog,Owner_173,Vaccination,629,True,34,2025-03-27,Online Booking,Arthritis,Infectious Disease,4,2516
+PET0301,Dog,Owner_106,Vaccination,850,True,42,2025-01-17,Online Booking,Ear Infection,Genetic Disorder,2,1700
+PET0548,Cat,Owner_128,Vaccination,447,False,56,2025-01-18,Referred by Vet,Obesity,Chronic Disease,3,1341
+PET0001,Bird,Owner_120,Dental Cleaning,326,True,49,2025-01-02,Walk-in,Arthritis,Genetic Disorder,3,978
+PET0287,Rabbit,Owner_123,Dental Cleaning,865,True,52,2025-01-10,Emergency,Obesity,Preventative Care,2,1730
+PET0430,Rabbit,Owner_118,Dental Cleaning,965,True,21,2025-03-24,Emergency,Obesity,Behavioral Issue,2,1930
+PET0580,Rabbit,Owner_70,Surgery,553,False,53,2025-01-03,Walk-in,Arthritis,Chronic Disease,1,553
+PET0655,Dog,Owner_170,Dental Cleaning,945,False,45,2025-01-19,Emergency,Parvovirus,Trauma,3,2835
+PET0465,Cat,Owner_124,Checkup,441,True,57,2025-03-04,Walk-in,Arthritis,Infectious Disease,5,2205
+PET0443,Cat,Owner_163,Dental Cleaning,184,True,13,2025-03-26,Emergency,Dental Disease,Preventative Care,2,368
+PET0214,Dog,Owner_142,Vaccination,244,True,14,2025-02-25,Walk-in,Arthritis,Chronic Disease,2,488
+PET0474,Cat,Owner_60,Neutering,450,True,46,2025-01-18,Walk-in,Arthritis,Chronic Disease,4,1800
+PET0902,Bird,Owner_123,Dental Cleaning,689,True,17,2025-01-11,Walk-in,Parvovirus,Genetic Disorder,5,3445
+PET0797,Cat,Owner_17,Deworming,82,False,51,2025-01-18,Referred by Vet,Arthritis,Preventative Care,5,410
+PET0170,Dog,Owner_27,Dental Cleaning,737,False,58,2025-03-24,Online Booking,Dental Disease,Infectious Disease,2,1474
+PET0085,Bird,Owner_24,Vaccination,509,True,37,2025-02-23,Emergency,Skin Infection,Trauma,1,509
+PET0516,Rabbit,Owner_62,Checkup,932,False,40,2025-02-28,Online Booking,Ear Infection,Genetic Disorder,4,3728
+PET0633,Dog,Owner_37,Deworming,519,True,18,2025-03-31,Walk-in,Parvovirus,Infectious Disease,5,2595
+PET0336,Rabbit,Owner_139,Deworming,424,False,38,2025-03-19,Walk-in,Ear Infection,Behavioral Issue,2,848
+PET0819,Dog,Owner_103,Checkup,71,False,23,2025-02-24,Emergency,Dental Disease,Behavioral Issue,5,355
+PET0752,Dog,Owner_84,Vaccination,799,True,49,2025-03-21,Emergency,Parvovirus,Genetic Disorder,4,3196
+PET0673,Cat,Owner_28,Vaccination,719,False,50,2025-01-24,Referred by Vet,Obesity,Chronic Disease,4,2876
+PET0225,Rabbit,Owner_77,Surgery,87,True,31,2025-02-28,Emergency,Dental Disease,Chronic Disease,3,261
+PET0200,Dog,Owner_38,Checkup,279,True,20,2025-03-07,Referred by Vet,Obesity,Trauma,2,558
+PET0025,Cat,Owner_128,Vaccination,414,True,32,2025-02-24,Online Booking,Ear Infection,Behavioral Issue,4,1656
+PET0245,Rabbit,Owner_139,Dental Cleaning,612,False,10,2025-03-12,Walk-in,Skin Infection,Infectious Disease,3,1836
+PET0476,Dog,Owner_130,Dental Cleaning,487,False,55,2025-02-27,Referred by Vet,Obesity,Infectious Disease,3,1461
+PET0850,Bird,Owner_200,Deworming,825,False,46,2025-02-19,Referred by Vet,Arthritis,Preventative Care,5,4125
+PET0073,Dog,Owner_111,Dental Cleaning,332,True,30,2025-02-15,Walk-in,Skin Infection,Genetic Disorder,5,1660
+PET0415,Rabbit,Owner_98,Neutering,76,False,35,2025-01-29,Walk-in,Parvovirus,Infectious Disease,3,228
+PET0630,Rabbit,Owner_29,Vaccination,275,True,55,2025-01-24,Walk-in,Ear Infection,Genetic Disorder,5,1375
+PET0195,Bird,Owner_63,Dental Cleaning,326,False,45,2025-02-24,Online Booking,Parvovirus,Behavioral Issue,4,1304
+PET0697,Rabbit,Owner_91,Vaccination,847,True,32,2025-03-19,Walk-in,Skin Infection,Behavioral Issue,1,847
+PET0495,Cat,Owner_11,Dental Cleaning,658,False,10,2025-01-01,Walk-in,Skin Infection,Genetic Disorder,4,2632
+PET0244,Cat,Owner_72,Checkup,333,True,49,2025-03-15,Walk-in,Ear Infection,Preventative Care,3,999
+PET0657,Rabbit,Owner_2,Dental Cleaning,928,True,24,2025-03-05,Online Booking,Dental Disease,Preventative Care,3,2784
+PET0006,Bird,Owner_28,Checkup,530,False,30,2025-01-31,Emergency,Dental Disease,Trauma,4,2120
+PET0751,Cat,Owner_164,Vaccination,502,False,56,2025-03-06,Emergency,Parvovirus,Genetic Disorder,5,2510
+PET0771,Dog,Owner_193,Checkup,878,False,18,2025-02-04,Walk-in,Parvovirus,Genetic Disorder,5,4390
+PET0107,Bird,Owner_102,Vaccination,865,True,18,2025-02-22,Referred by Vet,Dental Disease,Trauma,3,2595
+PET0426,Cat,Owner_99,Deworming,708,False,19,2025-03-11,Walk-in,Parvovirus,Preventative Care,2,1416
+PET0176,Rabbit,Owner_137,Surgery,565,True,35,2025-03-15,Referred by Vet,Dental Disease,Preventative Care,5,2825
+PET0958,Rabbit,Owner_84,Dental Cleaning,596,True,50,2025-02-16,Emergency,Parvovirus,Behavioral Issue,4,2384
+PET0518,Bird,Owner_168,Neutering,241,False,44,2025-01-05,Referred by Vet,Dental Disease,Genetic Disorder,5,1205
+PET0051,Rabbit,Owner_98,Neutering,98,True,34,2025-01-05,Online Booking,Skin Infection,Chronic Disease,4,392
+PET0250,Cat,Owner_17,Surgery,561,False,35,2025-03-14,Referred by Vet,Dental Disease,Infectious Disease,3,1683
+PET0849,Dog,Owner_7,Deworming,66,False,20,2025-03-03,Emergency,Arthritis,Infectious Disease,5,330
+PET0457,Rabbit,Owner_153,Vaccination,221,True,47,2025-02-17,Referred by Vet,Dental Disease,Infectious Disease,4,884
+PET0802,Bird,Owner_59,Checkup,269,False,11,2025-01-15,Online Booking,Parvovirus,Genetic Disorder,3,807
+PET0668,Dog,Owner_55,Dental Cleaning,207,True,16,2025-03-16,Walk-in,Parvovirus,Behavioral Issue,2,414
+PET0988,Bird,Owner_108,Neutering,526,False,27,2025-03-03,Walk-in,Skin Infection,Genetic Disorder,4,2104
+PET0596,Cat,Owner_34,Deworming,95,False,36,2025-03-30,Online Booking,Dental Disease,Infectious Disease,2,190
+PET0951,Rabbit,Owner_92,Dental Cleaning,422,True,43,2025-01-11,Referred by Vet,Skin Infection,Trauma,2,844
+PET0892,Rabbit,Owner_149,Neutering,567,True,36,2025-01-19,Emergency,Dental Disease,Behavioral Issue,1,567
+PET0613,Bird,Owner_154,Deworming,148,False,26,2025-03-09,Walk-in,Skin Infection,Behavioral Issue,5,740
+PET0720,Dog,Owner_110,Checkup,941,True,52,2025-02-05,Online Booking,Obesity,Preventative Care,4,3764
+PET0505,Bird,Owner_23,Surgery,794,True,53,2025-03-01,Referred by Vet,Parvovirus,Infectious Disease,2,1588
+PET0831,Cat,Owner_23,Checkup,86,True,33,2025-03-08,Walk-in,Dental Disease,Infectious Disease,1,86
+PET0548,Cat,Owner_156,Vaccination,329,True,34,2025-01-11,Referred by Vet,Obesity,Preventative Care,3,987
+PET0898,Dog,Owner_165,Checkup,398,False,16,2025-03-08,Emergency,Arthritis,Behavioral Issue,4,1592
+PET0744,Dog,Owner_74,Vaccination,546,True,15,2025-03-20,Walk-in,Skin Infection,Behavioral Issue,2,1092
+PET0475,Dog,Owner_165,Deworming,351,True,33,2025-01-12,Walk-in,Obesity,Chronic Disease,5,1755
+PET0260,Bird,Owner_9,Vaccination,230,False,42,2025-02-01,Referred by Vet,Skin Infection,Trauma,1,230
+PET0248,Rabbit,Owner_144,Neutering,656,True,58,2025-03-02,Emergency,Parvovirus,Genetic Disorder,2,1312
+PET0638,Bird,Owner_110,Surgery,148,False,38,2025-03-22,Walk-in,Parvovirus,Genetic Disorder,5,740
+PET0766,Rabbit,Owner_198,Checkup,749,True,52,2025-03-26,Online Booking,Skin Infection,Preventative Care,2,1498
+PET0522,Cat,Owner_21,Checkup,165,True,31,2025-03-27,Online Booking,Skin Infection,Preventative Care,4,660
+PET0627,Bird,Owner_167,Dental Cleaning,240,True,35,2025-01-10,Walk-in,Skin Infection,Chronic Disease,4,960
+PET0275,Dog,Owner_151,Neutering,302,True,37,2025-03-29,Online Booking,Skin Infection,Trauma,4,1208
+PET0078,Cat,Owner_60,Neutering,977,False,59,2025-03-23,Referred by Vet,Dental Disease,Preventative Care,1,977
+PET0286,Bird,Owner_200,Vaccination,210,False,30,2025-03-11,Emergency,Ear Infection,Trauma,4,840
+PET0272,Bird,Owner_90,Checkup,305,False,58,2025-03-16,Online Booking,Dental Disease,Infectious Disease,5,1525
+PET0320,Cat,Owner_70,Deworming,372,False,16,2025-02-09,Walk-in,Ear Infection,Behavioral Issue,2,744
+PET0541,Dog,Owner_164,Deworming,177,True,26,2025-03-20,Online Booking,Obesity,Behavioral Issue,3,531
+PET0139,Cat,Owner_88,Vaccination,67,False,29,2025-01-07,Emergency,Dental Disease,Trauma,5,335
+PET0232,Bird,Owner_199,Deworming,842,False,50,2025-02-13,Referred by Vet,Arthritis,Trauma,5,4210
+PET0694,Rabbit,Owner_156,Vaccination,784,False,58,2025-03-10,Emergency,Obesity,Preventative Care,4,3136
+PET0707,Bird,Owner_48,Neutering,615,True,29,2025-01-02,Emergency,Dental Disease,Infectious Disease,1,615
+PET0065,Cat,Owner_163,Vaccination,619,True,31,2025-03-02,Referred by Vet,Skin Infection,Preventative Care,2,1238
+PET0408,Bird,Owner_118,Dental Cleaning,372,False,37,2025-02-28,Online Booking,Parvovirus,Genetic Disorder,1,372
+PET0543,Cat,Owner_71,Dental Cleaning,921,False,49,2025-03-07,Emergency,Arthritis,Genetic Disorder,2,1842
+PET0416,Cat,Owner_143,Checkup,735,False,58,2025-03-02,Referred by Vet,Dental Disease,Preventative Care,2,1470
+PET0207,Bird,Owner_127,Checkup,841,False,16,2025-03-15,Referred by Vet,Ear Infection,Chronic Disease,1,841
+PET0421,Rabbit,Owner_34,Checkup,675,True,10,2025-02-12,Emergency,Skin Infection,Behavioral Issue,5,3375
+PET0905,Bird,Owner_28,Surgery,337,True,41,2025-02-23,Referred by Vet,Ear Infection,Infectious Disease,2,674
+PET0585,Rabbit,Owner_42,Surgery,992,False,22,2025-02-15,Referred by Vet,Obesity,Behavioral Issue,1,992
+PET0696,Dog,Owner_42,Deworming,903,True,39,2025-02-07,Referred by Vet,Arthritis,Genetic Disorder,2,1806
+PET0857,Rabbit,Owner_12,Checkup,712,True,32,2025-02-07,Online Booking,Skin Infection,Trauma,3,2136
+PET0766,Bird,Owner_71,Neutering,688,False,28,2025-01-22,Walk-in,Ear Infection,Genetic Disorder,5,3440
+PET0381,Rabbit,Owner_57,Surgery,204,True,41,2025-01-05,Referred by Vet,Skin Infection,Trauma,4,816
+PET0006,Cat,Owner_108,Checkup,539,True,39,2025-03-30,Referred by Vet,Parvovirus,Genetic Disorder,2,1078
+PET0352,Dog,Owner_65,Vaccination,435,True,38,2025-03-18,Emergency,Skin Infection,Trauma,3,1305
+PET0754,Rabbit,Owner_141,Surgery,834,False,58,2025-02-08,Walk-in,Obesity,Behavioral Issue,4,3336
+PET0854,Cat,Owner_58,Dental Cleaning,153,True,54,2025-03-14,Walk-in,Dental Disease,Chronic Disease,4,612
+PET0954,Rabbit,Owner_54,Neutering,978,True,38,2025-02-03,Walk-in,Ear Infection,Genetic Disorder,2,1956
+PET0420,Cat,Owner_172,Checkup,442,True,39,2025-01-08,Walk-in,Parvovirus,Chronic Disease,1,442
+PET0748,Rabbit,Owner_198,Neutering,860,False,25,2025-03-22,Emergency,Ear Infection,Genetic Disorder,2,1720
+PET0547,Cat,Owner_136,Deworming,295,True,49,2025-03-02,Online Booking,Skin Infection,Genetic Disorder,3,885
+PET0604,Dog,Owner_20,Surgery,225,False,28,2025-03-16,Referred by Vet,Arthritis,Genetic Disorder,4,900
+PET0221,Bird,Owner_193,Deworming,88,False,27,2025-01-22,Emergency,Ear Infection,Infectious Disease,2,176
+PET0220,Cat,Owner_158,Vaccination,526,False,10,2025-03-15,Walk-in,Skin Infection,Behavioral Issue,1,526
+PET0436,Bird,Owner_184,Surgery,731,True,23,2025-01-07,Emergency,Skin Infection,Chronic Disease,2,1462
+PET0030,Cat,Owner_199,Vaccination,808,True,56,2025-03-26,Walk-in,Arthritis,Trauma,5,4040
+PET0337,Bird,Owner_174,Deworming,587,True,59,2025-02-07,Walk-in,Arthritis,Trauma,1,587
+PET0680,Bird,Owner_26,Deworming,916,True,11,2025-03-21,Online Booking,Arthritis,Behavioral Issue,3,2748
+PET0405,Dog,Owner_174,Deworming,867,True,37,2025-01-04,Online Booking,Parvovirus,Preventative Care,4,3468
+PET0166,Rabbit,Owner_50,Vaccination,970,True,58,2025-02-06,Online Booking,Obesity,Behavioral Issue,2,1940
+PET0468,Cat,Owner_143,Neutering,457,False,59,2025-03-04,Walk-in,Arthritis,Behavioral Issue,1,457
+PET0128,Bird,Owner_166,Dental Cleaning,574,True,39,2025-01-11,Emergency,Dental Disease,Preventative Care,5,2870
+PET0623,Rabbit,Owner_153,Deworming,877,True,47,2025-01-17,Referred by Vet,Skin Infection,Trauma,1,877
+PET0027,Bird,Owner_136,Vaccination,555,True,13,2025-03-06,Referred by Vet,Parvovirus,Genetic Disorder,5,2775
+PET0395,Dog,Owner_98,Dental Cleaning,952,False,10,2025-01-10,Referred by Vet,Parvovirus,Behavioral Issue,3,2856
+PET0565,Rabbit,Owner_116,Surgery,874,False,17,2025-02-05,Online Booking,Arthritis,Genetic Disorder,4,3496
+PET0028,Bird,Owner_54,Neutering,85,True,38,2025-02-02,Emergency,Dental Disease,Trauma,3,255
+PET0643,Dog,Owner_83,Dental Cleaning,734,False,48,2025-01-17,Online Booking,Skin Infection,Preventative Care,2,1468
+PET0136,Dog,Owner_91,Neutering,69,False,12,2025-03-20,Walk-in,Arthritis,Chronic Disease,1,69
+PET0462,Bird,Owner_127,Checkup,370,False,41,2025-02-05,Referred by Vet,Ear Infection,Genetic Disorder,5,1850
+PET0051,Cat,Owner_177,Neutering,825,True,19,2025-02-05,Online Booking,Dental Disease,Chronic Disease,5,4125
+PET0380,Cat,Owner_19,Deworming,561,False,19,2025-02-02,Referred by Vet,Obesity,Behavioral Issue,1,561
+PET0212,Rabbit,Owner_104,Neutering,449,True,28,2025-01-02,Referred by Vet,Skin Infection,Trauma,1,449
+PET0327,Rabbit,Owner_56,Vaccination,703,False,55,2025-01-15,Referred by Vet,Dental Disease,Infectious Disease,2,1406
+PET0762,Rabbit,Owner_188,Neutering,932,False,43,2025-03-19,Referred by Vet,Obesity,Genetic Disorder,3,2796
+PET0380,Bird,Owner_74,Surgery,520,True,42,2025-01-23,Walk-in,Skin Infection,Preventative Care,5,2600
+PET0753,Cat,Owner_191,Vaccination,192,False,32,2025-03-17,Emergency,Dental Disease,Genetic Disorder,2,384
+PET0832,Bird,Owner_66,Neutering,141,True,37,2025-01-20,Online Booking,Ear Infection,Behavioral Issue,3,423
+PET0253,Rabbit,Owner_1,Surgery,403,False,41,2025-03-26,Referred by Vet,Skin Infection,Genetic Disorder,2,806
+PET0082,Rabbit,Owner_155,Vaccination,883,True,59,2025-02-27,Emergency,Skin Infection,Trauma,5,4415
+PET0020,Cat,Owner_147,Vaccination,849,False,16,2025-02-17,Referred by Vet,Arthritis,Infectious Disease,1,849
+PET0540,Rabbit,Owner_147,Surgery,776,True,38,2025-01-23,Walk-in,Parvovirus,Infectious Disease,1,776
+PET1000,Dog,Owner_92,Surgery,903,False,17,2025-02-03,Emergency,Obesity,Genetic Disorder,3,2709
+PET0350,Dog,Owner_133,Dental Cleaning,100,True,10,2025-03-31,Referred by Vet,Arthritis,Chronic Disease,4,400
+PET0651,Rabbit,Owner_72,Surgery,714,True,12,2025-01-31,Walk-in,Parvovirus,Infectious Disease,3,2142
+PET0782,Cat,Owner_13,Dental Cleaning,747,True,33,2025-03-04,Emergency,Skin Infection,Chronic Disease,4,2988
+PET0652,Cat,Owner_107,Checkup,624,False,32,2025-01-24,Emergency,Ear Infection,Genetic Disorder,2,1248
+PET0755,Rabbit,Owner_44,Deworming,239,False,17,2025-03-09,Emergency,Obesity,Genetic Disorder,2,478
+PET0950,Cat,Owner_86,Neutering,174,False,56,2025-01-05,Emergency,Skin Infection,Infectious Disease,5,870
+PET0200,Cat,Owner_43,Vaccination,199,False,46,2025-02-13,Referred by Vet,Ear Infection,Genetic Disorder,4,796
+PET0021,Cat,Owner_54,Dental Cleaning,363,False,12,2025-01-11,Online Booking,Obesity,Preventative Care,5,1815
+PET0153,Bird,Owner_166,Neutering,619,True,42,2025-01-19,Emergency,Obesity,Genetic Disorder,1,619
+PET0127,Cat,Owner_68,Surgery,391,True,37,2025-03-18,Referred by Vet,Arthritis,Behavioral Issue,4,1564
+PET0670,Bird,Owner_116,Surgery,354,False,56,2025-01-20,Referred by Vet,Obesity,Infectious Disease,3,1062
+PET0564,Cat,Owner_114,Neutering,741,True,17,2025-03-05,Online Booking,Arthritis,Behavioral Issue,1,741
+PET0218,Dog,Owner_98,Surgery,731,False,43,2025-02-22,Emergency,Parvovirus,Trauma,1,731
+PET0700,Bird,Owner_69,Checkup,887,True,44,2025-02-19,Referred by Vet,Parvovirus,Behavioral Issue,3,2661
+PET0767,Cat,Owner_137,Vaccination,832,True,41,2025-01-31,Online Booking,Obesity,Behavioral Issue,1,832
+PET0168,Bird,Owner_10,Checkup,103,False,33,2025-03-26,Referred by Vet,Obesity,Infectious Disease,4,412
+PET0608,Cat,Owner_20,Dental Cleaning,493,True,23,2025-02-26,Walk-in,Obesity,Behavioral Issue,5,2465
+PET0748,Dog,Owner_157,Neutering,662,False,41,2025-03-23,Walk-in,Skin Infection,Chronic Disease,1,662
+PET0115,Rabbit,Owner_92,Checkup,313,True,55,2025-01-22,Online Booking,Obesity,Infectious Disease,4,1252
+PET0820,Bird,Owner_25,Deworming,102,False,52,2025-01-27,Referred by Vet,Obesity,Behavioral Issue,2,204
+PET0965,Cat,Owner_172,Dental Cleaning,621,False,25,2025-03-15,Emergency,Skin Infection,Preventative Care,4,2484
+PET0109,Cat,Owner_89,Surgery,669,True,13,2025-02-14,Walk-in,Dental Disease,Preventative Care,5,3345
+PET0026,Dog,Owner_1,Checkup,54,True,46,2025-01-07,Online Booking,Obesity,Behavioral Issue,4,216
+PET0312,Rabbit,Owner_192,Vaccination,152,False,30,2025-03-24,Referred by Vet,Obesity,Preventative Care,3,456
+PET0678,Bird,Owner_41,Vaccination,245,False,23,2025-02-03,Walk-in,Parvovirus,Trauma,5,1225
+PET0959,Bird,Owner_138,Vaccination,823,True,40,2025-01-15,Referred by Vet,Skin Infection,Infectious Disease,2,1646
+PET0397,Rabbit,Owner_27,Checkup,926,True,57,2025-01-07,Referred by Vet,Ear Infection,Chronic Disease,3,2778
+PET0716,Bird,Owner_130,Checkup,933,True,27,2025-01-22,Referred by Vet,Skin Infection,Trauma,4,3732
+PET0076,Rabbit,Owner_32,Vaccination,399,True,16,2025-03-01,Emergency,Dental Disease,Genetic Disorder,5,1995
+PET0691,Bird,Owner_187,Surgery,96,False,19,2025-02-21,Walk-in,Parvovirus,Behavioral Issue,2,192
+PET0628,Rabbit,Owner_55,Dental Cleaning,916,False,16,2025-03-02,Emergency,Dental Disease,Preventative Care,3,2748
+PET0102,Dog,Owner_131,Deworming,872,True,42,2025-02-08,Emergency,Ear Infection,Trauma,2,1744
+PET0773,Dog,Owner_51,Neutering,985,False,32,2025-03-02,Online Booking,Skin Infection,Genetic Disorder,4,3940
+PET0851,Dog,Owner_75,Neutering,869,False,30,2025-03-10,Walk-in,Parvovirus,Genetic Disorder,2,1738
+PET0601,Bird,Owner_181,Checkup,705,True,28,2025-01-30,Referred by Vet,Arthritis,Preventative Care,1,705
+PET0122,Dog,Owner_34,Checkup,318,False,57,2025-02-18,Referred by Vet,Dental Disease,Genetic Disorder,3,954
+PET0984,Rabbit,Owner_80,Vaccination,419,True,28,2025-03-29,Walk-in,Obesity,Behavioral Issue,2,838
+PET0783,Cat,Owner_62,Neutering,685,False,45,2025-02-19,Referred by Vet,Dental Disease,Preventative Care,4,2740
+PET0348,Bird,Owner_140,Deworming,155,True,38,2025-03-02,Referred by Vet,Skin Infection,Chronic Disease,4,620
+PET0429,Rabbit,Owner_47,Deworming,719,False,27,2025-02-03,Online Booking,Skin Infection,Preventative Care,2,1438
+PET0371,Rabbit,Owner_132,Surgery,708,True,11,2025-01-19,Emergency,Dental Disease,Trauma,4,2832
+PET0506,Dog,Owner_141,Checkup,706,True,10,2025-03-09,Online Booking,Ear Infection,Infectious Disease,5,3530
+PET0342,Cat,Owner_1,Neutering,169,False,56,2025-02-25,Referred by Vet,Obesity,Infectious Disease,5,845
+PET0850,Bird,Owner_96,Surgery,880,True,14,2025-01-02,Emergency,Dental Disease,Trauma,5,4400
+PET0823,Rabbit,Owner_27,Deworming,836,True,29,2025-02-06,Emergency,Dental Disease,Genetic Disorder,1,836
+PET0106,Rabbit,Owner_46,Vaccination,653,False,20,2025-02-27,Online Booking,Obesity,Preventative Care,2,1306
+PET0961,Bird,Owner_136,Neutering,107,False,51,2025-02-18,Referred by Vet,Skin Infection,Infectious Disease,1,107
+PET0636,Bird,Owner_2,Surgery,395,True,11,2025-03-28,Referred by Vet,Ear Infection,Preventative Care,4,1580
+PET0829,Dog,Owner_140,Vaccination,790,True,12,2025-02-10,Emergency,Arthritis,Preventative Care,1,790
+PET0708,Bird,Owner_164,Deworming,523,True,32,2025-03-09,Online Booking,Skin Infection,Chronic Disease,4,2092
+PET0436,Rabbit,Owner_198,Deworming,166,True,21,2025-03-29,Walk-in,Arthritis,Genetic Disorder,4,664
+PET0734,Cat,Owner_85,Neutering,879,True,29,2025-01-06,Emergency,Arthritis,Genetic Disorder,3,2637
+PET0966,Rabbit,Owner_27,Surgery,840,False,14,2025-01-13,Referred by Vet,Arthritis,Chronic Disease,5,4200
+PET0271,Cat,Owner_15,Deworming,176,True,46,2025-03-10,Emergency,Obesity,Trauma,4,704
+PET0809,Bird,Owner_77,Dental Cleaning,442,True,47,2025-03-23,Online Booking,Arthritis,Preventative Care,3,1326
+PET0539,Bird,Owner_147,Surgery,957,True,39,2025-02-15,Referred by Vet,Parvovirus,Trauma,5,4785
+PET0484,Rabbit,Owner_21,Checkup,690,False,18,2025-02-25,Emergency,Parvovirus,Preventative Care,4,2760
+PET0436,Dog,Owner_63,Vaccination,107,True,43,2025-03-20,Referred by Vet,Parvovirus,Infectious Disease,4,428
+PET0732,Bird,Owner_177,Neutering,683,True,53,2025-03-25,Referred by Vet,Dental Disease,Infectious Disease,1,683
+PET0269,Cat,Owner_28,Surgery,562,False,44,2025-02-04,Referred by Vet,Arthritis,Behavioral Issue,1,562
+PET0852,Bird,Owner_155,Deworming,800,True,31,2025-02-12,Online Booking,Dental Disease,Genetic Disorder,5,4000
+PET0831,Dog,Owner_151,Surgery,851,False,53,2025-02-04,Online Booking,Arthritis,Chronic Disease,4,3404
+PET0087,Dog,Owner_27,Neutering,145,False,33,2025-02-04,Online Booking,Obesity,Genetic Disorder,2,290
+PET0882,Dog,Owner_199,Deworming,687,False,26,2025-01-13,Emergency,Dental Disease,Infectious Disease,1,687
+PET0244,Dog,Owner_29,Deworming,167,True,19,2025-02-02,Referred by Vet,Obesity,Preventative Care,5,835
+PET0465,Cat,Owner_107,Checkup,609,False,39,2025-03-25,Walk-in,Ear Infection,Preventative Care,4,2436
+PET0611,Rabbit,Owner_2,Dental Cleaning,650,False,55,2025-03-16,Online Booking,Obesity,Genetic Disorder,4,2600
+PET0379,Cat,Owner_131,Deworming,537,True,32,2025-02-20,Referred by Vet,Arthritis,Trauma,2,1074
+PET0029,Bird,Owner_89,Deworming,286,False,41,2025-03-01,Walk-in,Dental Disease,Preventative Care,5,1430
+PET0851,Bird,Owner_145,Neutering,934,True,26,2025-03-28,Emergency,Arthritis,Preventative Care,4,3736
+PET0182,Bird,Owner_126,Vaccination,946,True,59,2025-01-31,Walk-in,Skin Infection,Genetic Disorder,1,946
+PET0213,Cat,Owner_31,Neutering,321,False,26,2025-03-28,Online Booking,Ear Infection,Genetic Disorder,2,642
+PET0798,Rabbit,Owner_83,Checkup,238,False,23,2025-03-17,Walk-in,Arthritis,Infectious Disease,5,1190
+PET0341,Rabbit,Owner_138,Checkup,753,False,18,2025-01-25,Referred by Vet,Ear Infection,Genetic Disorder,2,1506
+PET0881,Dog,Owner_172,Dental Cleaning,496,False,49,2025-03-08,Walk-in,Parvovirus,Behavioral Issue,1,496
+PET0702,Cat,Owner_18,Checkup,630,False,11,2025-02-13,Online Booking,Ear Infection,Behavioral Issue,5,3150
+PET0277,Rabbit,Owner_21,Deworming,839,True,54,2025-03-28,Referred by Vet,Skin Infection,Chronic Disease,2,1678
+PET0011,Rabbit,Owner_151,Checkup,910,True,34,2025-03-30,Walk-in,Ear Infection,Preventative Care,3,2730
+PET0949,Dog,Owner_118,Deworming,296,True,48,2025-01-24,Online Booking,Dental Disease,Chronic Disease,1,296
+PET0086,Bird,Owner_77,Surgery,125,False,18,2025-02-10,Emergency,Obesity,Preventative Care,1,125
+PET0721,Dog,Owner_193,Dental Cleaning,203,True,31,2025-03-12,Referred by Vet,Skin Infection,Genetic Disorder,1,203
+PET0489,Rabbit,Owner_63,Surgery,705,False,52,2025-01-02,Online Booking,Skin Infection,Infectious Disease,3,2115
+PET0759,Rabbit,Owner_28,Dental Cleaning,484,False,55,2025-03-28,Referred by Vet,Obesity,Infectious Disease,3,1452
+PET0691,Rabbit,Owner_56,Neutering,135,True,13,2025-01-02,Emergency,Ear Infection,Chronic Disease,4,540
+PET0646,Bird,Owner_17,Checkup,746,False,35,2025-01-09,Walk-in,Dental Disease,Infectious Disease,2,1492
+PET0491,Rabbit,Owner_111,Deworming,334,False,38,2025-01-02,Referred by Vet,Dental Disease,Preventative Care,4,1336
+PET0793,Bird,Owner_121,Surgery,269,False,54,2025-02-22,Emergency,Skin Infection,Behavioral Issue,2,538
+PET0094,Dog,Owner_122,Deworming,118,True,43,2025-01-13,Referred by Vet,Skin Infection,Infectious Disease,3,354
+PET0222,Dog,Owner_156,Surgery,96,True,32,2025-03-09,Online Booking,Parvovirus,Behavioral Issue,3,288
+PET0692,Rabbit,Owner_139,Checkup,143,True,46,2025-01-14,Walk-in,Dental Disease,Preventative Care,4,572
+PET0307,Rabbit,Owner_170,Dental Cleaning,799,True,20,2025-03-29,Walk-in,Parvovirus,Trauma,5,3995
+PET0582,Rabbit,Owner_132,Vaccination,502,True,15,2025-02-27,Emergency,Arthritis,Preventative Care,4,2008
+PET0474,Bird,Owner_61,Neutering,253,False,27,2025-02-14,Online Booking,Parvovirus,Trauma,2,506
+PET0531,Cat,Owner_104,Neutering,961,True,30,2025-01-29,Emergency,Obesity,Behavioral Issue,4,3844
+PET0426,Rabbit,Owner_102,Surgery,267,False,51,2025-02-06,Walk-in,Ear Infection,Infectious Disease,1,267
+PET0746,Cat,Owner_150,Checkup,523,True,45,2025-02-02,Online Booking,Skin Infection,Chronic Disease,2,1046
+PET0331,Rabbit,Owner_60,Neutering,481,True,50,2025-01-25,Emergency,Parvovirus,Behavioral Issue,2,962
+PET0703,Cat,Owner_11,Checkup,390,False,47,2025-01-05,Referred by Vet,Dental Disease,Preventative Care,5,1950
+PET0271,Bird,Owner_180,Deworming,600,False,43,2025-01-04,Online Booking,Parvovirus,Genetic Disorder,3,1800
+PET0252,Cat,Owner_191,Dental Cleaning,661,False,26,2025-03-21,Emergency,Dental Disease,Preventative Care,2,1322
+PET0121,Bird,Owner_99,Deworming,338,False,46,2025-01-12,Emergency,Arthritis,Trauma,3,1014
+PET0193,Rabbit,Owner_23,Checkup,303,True,34,2025-01-08,Online Booking,Parvovirus,Preventative Care,4,1212
+PET0120,Cat,Owner_100,Surgery,783,False,47,2025-03-18,Referred by Vet,Skin Infection,Genetic Disorder,1,783
+PET0536,Dog,Owner_119,Vaccination,406,False,21,2025-03-26,Emergency,Obesity,Preventative Care,5,2030
+PET0763,Dog,Owner_106,Vaccination,72,False,32,2025-01-28,Emergency,Arthritis,Behavioral Issue,3,216
+PET0186,Cat,Owner_196,Checkup,811,False,51,2025-03-18,Emergency,Arthritis,Trauma,2,1622
+PET0217,Cat,Owner_198,Dental Cleaning,571,False,31,2025-03-23,Referred by Vet,Skin Infection,Preventative Care,3,1713
+PET0485,Dog,Owner_187,Checkup,807,True,30,2025-01-16,Walk-in,Dental Disease,Chronic Disease,2,1614
+PET0725,Rabbit,Owner_27,Vaccination,886,False,36,2025-01-16,Walk-in,Parvovirus,Infectious Disease,3,2658
+PET0977,Cat,Owner_173,Dental Cleaning,149,False,40,2025-01-12,Emergency,Dental Disease,Genetic Disorder,2,298
+PET0525,Rabbit,Owner_114,Dental Cleaning,851,True,15,2025-03-19,Referred by Vet,Skin Infection,Chronic Disease,4,3404
+PET0283,Rabbit,Owner_74,Deworming,229,True,36,2025-01-17,Referred by Vet,Parvovirus,Chronic Disease,2,458
+PET0101,Bird,Owner_137,Checkup,272,False,49,2025-02-18,Referred by Vet,Skin Infection,Chronic Disease,2,544
+PET0195,Bird,Owner_153,Dental Cleaning,955,True,43,2025-03-26,Online Booking,Obesity,Genetic Disorder,1,955
+PET0228,Dog,Owner_191,Checkup,811,False,21,2025-03-24,Walk-in,Ear Infection,Behavioral Issue,2,1622
+PET0180,Cat,Owner_155,Vaccination,708,True,54,2025-03-14,Walk-in,Obesity,Preventative Care,1,708
+PET0015,Rabbit,Owner_4,Checkup,491,False,16,2025-01-24,Referred by Vet,Arthritis,Chronic Disease,5,2455
+PET0535,Cat,Owner_14,Vaccination,657,False,19,2025-01-15,Online Booking,Obesity,Trauma,1,657
+PET0275,Cat,Owner_53,Deworming,818,True,54,2025-03-31,Emergency,Arthritis,Infectious Disease,4,3272
+PET0975,Cat,Owner_8,Checkup,374,False,26,2025-01-24,Referred by Vet,Arthritis,Preventative Care,1,374
+PET0554,Dog,Owner_13,Deworming,565,False,35,2025-02-02,Emergency,Parvovirus,Infectious Disease,5,2825
+PET0698,Dog,Owner_158,Checkup,65,True,30,2025-02-07,Referred by Vet,Parvovirus,Chronic Disease,4,260
+PET0127,Cat,Owner_102,Surgery,841,False,37,2025-03-01,Walk-in,Parvovirus,Trauma,3,2523
+PET0869,Cat,Owner_126,Dental Cleaning,385,True,55,2025-03-26,Walk-in,Dental Disease,Behavioral Issue,3,1155
+PET0491,Rabbit,Owner_101,Checkup,808,True,11,2025-01-10,Walk-in,Ear Infection,Trauma,1,808
+PET0873,Dog,Owner_84,Checkup,307,True,52,2025-03-23,Online Booking,Parvovirus,Infectious Disease,1,307
+PET0575,Bird,Owner_141,Dental Cleaning,546,False,10,2025-02-28,Referred by Vet,Parvovirus,Chronic Disease,5,2730
+PET0470,Dog,Owner_17,Surgery,945,True,45,2025-02-05,Emergency,Ear Infection,Trauma,5,4725
+PET0441,Cat,Owner_108,Deworming,209,False,35,2025-02-24,Referred by Vet,Skin Infection,Genetic Disorder,2,418
+PET0185,Rabbit,Owner_124,Neutering,524,True,38,2025-03-30,Emergency,Dental Disease,Preventative Care,5,2620
+PET0052,Cat,Owner_56,Deworming,901,True,30,2025-03-27,Walk-in,Arthritis,Infectious Disease,2,1802
+PET0942,Bird,Owner_62,Deworming,713,False,20,2025-02-11,Walk-in,Parvovirus,Genetic Disorder,4,2852
+PET0478,Cat,Owner_103,Dental Cleaning,957,True,49,2025-02-02,Walk-in,Obesity,Behavioral Issue,1,957
+PET0823,Rabbit,Owner_41,Surgery,739,True,20,2025-01-21,Referred by Vet,Arthritis,Genetic Disorder,4,2956
+PET0401,Cat,Owner_162,Vaccination,724,False,45,2025-01-10,Online Booking,Dental Disease,Chronic Disease,5,3620
+PET0075,Cat,Owner_108,Dental Cleaning,429,False,58,2025-02-05,Emergency,Skin Infection,Trauma,4,1716
+PET0630,Dog,Owner_79,Surgery,594,True,48,2025-01-08,Walk-in,Parvovirus,Preventative Care,4,2376
+PET0054,Bird,Owner_127,Checkup,978,True,49,2025-02-18,Online Booking,Obesity,Genetic Disorder,4,3912
+PET0150,Rabbit,Owner_167,Deworming,740,True,44,2025-02-19,Online Booking,Dental Disease,Preventative Care,5,3700
+PET0563,Bird,Owner_137,Checkup,476,True,43,2025-02-12,Referred by Vet,Arthritis,Trauma,4,1904
+PET0304,Dog,Owner_14,Deworming,662,True,56,2025-01-08,Walk-in,Arthritis,Infectious Disease,2,1324
+PET0994,Cat,Owner_140,Checkup,317,False,33,2025-02-03,Online Booking,Parvovirus,Behavioral Issue,5,1585
+PET0119,Dog,Owner_146,Surgery,884,True,31,2025-02-03,Walk-in,Skin Infection,Trauma,4,3536
+PET0765,Cat,Owner_170,Checkup,626,True,14,2025-01-23,Emergency,Obesity,Infectious Disease,5,3130
+PET0607,Bird,Owner_12,Surgery,466,True,42,2025-02-26,Online Booking,Ear Infection,Preventative Care,3,1398
+PET0791,Rabbit,Owner_18,Surgery,217,False,45,2025-01-09,Online Booking,Arthritis,Infectious Disease,2,434
+PET0226,Cat,Owner_87,Checkup,891,False,56,2025-03-04,Referred by Vet,Skin Infection,Infectious Disease,4,3564
+PET0523,Rabbit,Owner_91,Deworming,92,True,29,2025-01-26,Referred by Vet,Ear Infection,Infectious Disease,3,276
+PET0451,Bird,Owner_122,Dental Cleaning,605,True,28,2025-03-20,Emergency,Obesity,Preventative Care,3,1815
+PET0443,Cat,Owner_62,Dental Cleaning,334,False,44,2025-02-20,Walk-in,Skin Infection,Infectious Disease,5,1670
+PET0861,Bird,Owner_149,Checkup,446,True,52,2025-01-23,Online Booking,Dental Disease,Preventative Care,3,1338
+PET0991,Rabbit,Owner_149,Dental Cleaning,61,False,26,2025-03-24,Emergency,Dental Disease,Trauma,2,122
+PET0306,Bird,Owner_24,Dental Cleaning,656,True,54,2025-03-04,Walk-in,Parvovirus,Trauma,2,1312
+PET0622,Cat,Owner_142,Surgery,351,False,52,2025-01-14,Walk-in,Arthritis,Chronic Disease,1,351
+PET0610,Cat,Owner_141,Neutering,947,False,43,2025-01-19,Emergency,Parvovirus,Behavioral Issue,2,1894
+PET0741,Rabbit,Owner_33,Neutering,302,True,18,2025-03-11,Online Booking,Obesity,Chronic Disease,3,906
+PET0948,Dog,Owner_191,Surgery,548,True,35,2025-02-25,Emergency,Dental Disease,Infectious Disease,2,1096
+PET0208,Rabbit,Owner_105,Vaccination,803,False,11,2025-01-28,Online Booking,Arthritis,Trauma,5,4015
+PET0212,Dog,Owner_157,Surgery,84,True,18,2025-03-20,Online Booking,Arthritis,Behavioral Issue,1,84
+PET0661,Rabbit,Owner_145,Dental Cleaning,776,False,18,2025-03-24,Online Booking,Dental Disease,Trauma,3,2328
+PET0158,Bird,Owner_34,Dental Cleaning,898,True,49,2025-01-14,Referred by Vet,Skin Infection,Infectious Disease,1,898
+PET0174,Cat,Owner_26,Checkup,139,False,26,2025-02-26,Online Booking,Obesity,Behavioral Issue,3,417
+PET0076,Bird,Owner_157,Vaccination,825,True,10,2025-02-03,Walk-in,Skin Infection,Chronic Disease,5,4125
+PET0003,Rabbit,Owner_54,Vaccination,654,True,34,2025-01-14,Walk-in,Dental Disease,Genetic Disorder,1,654
+PET0451,Dog,Owner_178,Dental Cleaning,971,True,52,2025-01-05,Online Booking,Obesity,Chronic Disease,4,3884
+PET0594,Bird,Owner_155,Vaccination,651,False,49,2025-01-10,Referred by Vet,Parvovirus,Genetic Disorder,3,1953
+PET0292,Cat,Owner_6,Deworming,467,True,51,2025-01-10,Emergency,Dental Disease,Trauma,4,1868
+PET0232,Bird,Owner_162,Surgery,164,True,34,2025-03-15,Referred by Vet,Skin Infection,Preventative Care,1,164
+PET0707,Cat,Owner_55,Surgery,666,False,48,2025-02-02,Emergency,Ear Infection,Genetic Disorder,4,2664
+PET0703,Bird,Owner_13,Neutering,952,False,44,2025-02-27,Walk-in,Obesity,Behavioral Issue,4,3808
+PET0455,Bird,Owner_143,Surgery,245,False,12,2025-01-03,Referred by Vet,Dental Disease,Preventative Care,1,245
+PET0688,Dog,Owner_116,Neutering,875,True,59,2025-03-05,Walk-in,Ear Infection,Preventative Care,5,4375
+PET0924,Rabbit,Owner_16,Checkup,550,True,46,2025-01-20,Walk-in,Obesity,Behavioral Issue,4,2200
+PET0788,Rabbit,Owner_92,Dental Cleaning,675,True,53,2025-03-25,Online Booking,Parvovirus,Chronic Disease,4,2700
+PET0626,Dog,Owner_73,Dental Cleaning,542,False,53,2025-03-23,Referred by Vet,Dental Disease,Behavioral Issue,5,2710
+PET0662,Dog,Owner_100,Dental Cleaning,124,True,39,2025-01-01,Referred by Vet,Skin Infection,Trauma,4,496
+PET0934,Cat,Owner_114,Vaccination,462,True,47,2025-01-05,Emergency,Skin Infection,Trauma,4,1848
+PET0426,Cat,Owner_74,Surgery,425,False,43,2025-03-27,Referred by Vet,Parvovirus,Genetic Disorder,4,1700
+PET0545,Cat,Owner_52,Neutering,469,False,21,2025-02-19,Referred by Vet,Arthritis,Behavioral Issue,2,938
+PET0648,Rabbit,Owner_21,Surgery,778,True,28,2025-02-04,Online Booking,Obesity,Preventative Care,5,3890
+PET0909,Rabbit,Owner_115,Vaccination,326,True,46,2025-01-20,Referred by Vet,Parvovirus,Preventative Care,4,1304
+PET0827,Cat,Owner_145,Dental Cleaning,810,False,53,2025-03-31,Referred by Vet,Arthritis,Behavioral Issue,5,4050
+PET0072,Rabbit,Owner_46,Dental Cleaning,725,False,58,2025-02-12,Emergency,Ear Infection,Trauma,3,2175
+PET0166,Dog,Owner_102,Dental Cleaning,443,False,26,2025-02-20,Online Booking,Ear Infection,Infectious Disease,3,1329
+PET0308,Bird,Owner_9,Neutering,918,False,19,2025-03-15,Online Booking,Skin Infection,Infectious Disease,4,3672
+PET0749,Rabbit,Owner_173,Dental Cleaning,506,True,58,2025-01-01,Online Booking,Dental Disease,Preventative Care,5,2530
+PET0570,Cat,Owner_49,Checkup,969,False,56,2025-03-07,Referred by Vet,Dental Disease,Infectious Disease,5,4845
+PET0289,Cat,Owner_95,Surgery,241,True,21,2025-03-04,Emergency,Ear Infection,Infectious Disease,5,1205
+PET0125,Bird,Owner_77,Deworming,788,True,25,2025-03-03,Online Booking,Obesity,Trauma,2,1576
+PET0689,Rabbit,Owner_31,Checkup,738,True,33,2025-02-25,Walk-in,Skin Infection,Genetic Disorder,3,2214
+PET0700,Rabbit,Owner_187,Deworming,148,True,28,2025-02-21,Online Booking,Obesity,Infectious Disease,5,740
+PET0943,Cat,Owner_172,Vaccination,597,False,17,2025-01-09,Emergency,Obesity,Genetic Disorder,5,2985
+PET0501,Bird,Owner_111,Checkup,145,True,40,2025-03-11,Online Booking,Ear Infection,Behavioral Issue,2,290
+PET0494,Cat,Owner_183,Neutering,713,False,30,2025-01-29,Emergency,Arthritis,Genetic Disorder,2,1426
+PET0081,Rabbit,Owner_149,Deworming,712,True,26,2025-01-01,Online Booking,Dental Disease,Chronic Disease,5,3560
+PET0040,Bird,Owner_84,Surgery,239,True,32,2025-02-19,Emergency,Arthritis,Preventative Care,1,239
+PET0433,Rabbit,Owner_65,Surgery,785,False,46,2025-03-30,Online Booking,Ear Infection,Genetic Disorder,5,3925
+PET0323,Bird,Owner_84,Deworming,86,True,25,2025-03-03,Walk-in,Arthritis,Chronic Disease,5,430
+PET0251,Rabbit,Owner_145,Checkup,829,False,15,2025-01-16,Emergency,Skin Infection,Behavioral Issue,2,1658
+PET0092,Rabbit,Owner_55,Dental Cleaning,418,True,17,2025-03-14,Referred by Vet,Parvovirus,Genetic Disorder,2,836
+PET0962,Dog,Owner_16,Deworming,744,False,34,2025-03-10,Online Booking,Skin Infection,Preventative Care,5,3720
+PET0836,Cat,Owner_75,Deworming,574,False,27,2025-02-15,Referred by Vet,Obesity,Chronic Disease,5,2870
+PET0576,Bird,Owner_101,Neutering,328,True,34,2025-02-12,Online Booking,Parvovirus,Trauma,5,1640
+PET0951,Bird,Owner_181,Surgery,266,True,21,2025-03-29,Walk-in,Dental Disease,Behavioral Issue,2,532
+PET1000,Bird,Owner_36,Dental Cleaning,916,True,24,2025-02-08,Online Booking,Parvovirus,Behavioral Issue,5,4580
+PET0673,Rabbit,Owner_161,Deworming,922,False,35,2025-02-21,Online Booking,Dental Disease,Genetic Disorder,5,4610
+PET0270,Rabbit,Owner_197,Checkup,847,False,50,2025-01-08,Referred by Vet,Dental Disease,Chronic Disease,4,3388
+PET0041,Rabbit,Owner_191,Neutering,322,True,54,2025-03-22,Online Booking,Arthritis,Behavioral Issue,1,322
+PET0757,Dog,Owner_14,Checkup,930,False,35,2025-03-24,Referred by Vet,Dental Disease,Behavioral Issue,3,2790
+PET0471,Rabbit,Owner_94,Neutering,111,True,56,2025-01-12,Online Booking,Obesity,Trauma,1,111
+PET0652,Rabbit,Owner_57,Vaccination,645,True,41,2025-02-16,Referred by Vet,Ear Infection,Chronic Disease,4,2580
+PET0917,Bird,Owner_169,Deworming,929,True,19,2025-03-10,Walk-in,Dental Disease,Infectious Disease,3,2787
+PET0182,Dog,Owner_66,Dental Cleaning,778,False,25,2025-02-13,Online Booking,Obesity,Infectious Disease,5,3890
+PET0586,Rabbit,Owner_111,Surgery,391,False,16,2025-01-11,Walk-in,Dental Disease,Genetic Disorder,4,1564
+PET0635,Dog,Owner_2,Deworming,446,False,26,2025-02-28,Walk-in,Dental Disease,Behavioral Issue,5,2230
+PET0492,Bird,Owner_41,Dental Cleaning,748,True,32,2025-02-07,Online Booking,Ear Infection,Infectious Disease,2,1496
+PET0092,Dog,Owner_113,Deworming,68,False,35,2025-03-24,Online Booking,Skin Infection,Infectious Disease,4,272
+PET0348,Dog,Owner_61,Surgery,226,False,30,2025-01-26,Emergency,Parvovirus,Genetic Disorder,2,452
+PET0334,Cat,Owner_125,Vaccination,661,True,31,2025-01-23,Online Booking,Parvovirus,Preventative Care,4,2644
+PET0671,Dog,Owner_93,Vaccination,445,True,16,2025-03-12,Online Booking,Parvovirus,Trauma,4,1780
+PET0858,Rabbit,Owner_119,Checkup,494,False,23,2025-01-06,Referred by Vet,Dental Disease,Behavioral Issue,2,988
+PET0330,Cat,Owner_99,Checkup,282,True,24,2025-02-19,Walk-in,Dental Disease,Behavioral Issue,3,846
+PET0694,Bird,Owner_155,Deworming,964,True,16,2025-03-26,Online Booking,Arthritis,Trauma,1,964
+PET0289,Bird,Owner_40,Neutering,125,False,18,2025-01-25,Online Booking,Obesity,Preventative Care,5,625
+PET0946,Bird,Owner_181,Vaccination,314,False,57,2025-02-08,Online Booking,Parvovirus,Genetic Disorder,4,1256
+PET0814,Rabbit,Owner_153,Surgery,504,True,17,2025-03-31,Referred by Vet,Parvovirus,Trauma,5,2520
+PET0551,Dog,Owner_50,Checkup,845,False,59,2025-02-19,Referred by Vet,Dental Disease,Preventative Care,2,1690
+PET0455,Dog,Owner_2,Deworming,767,True,32,2025-01-14,Online Booking,Dental Disease,Behavioral Issue,5,3835
+PET0315,Dog,Owner_83,Checkup,784,False,38,2025-03-22,Emergency,Ear Infection,Behavioral Issue,2,1568
+PET0324,Cat,Owner_47,Surgery,433,True,27,2025-03-30,Online Booking,Obesity,Genetic Disorder,5,2165
+PET0971,Rabbit,Owner_70,Deworming,613,True,40,2025-02-15,Online Booking,Skin Infection,Trauma,1,613
+PET0405,Rabbit,Owner_168,Checkup,900,False,39,2025-03-04,Online Booking,Arthritis,Preventative Care,1,900
+PET0515,Cat,Owner_176,Vaccination,555,True,48,2025-01-11,Emergency,Dental Disease,Behavioral Issue,1,555
+PET0989,Dog,Owner_191,Neutering,416,True,44,2025-03-22,Emergency,Parvovirus,Genetic Disorder,1,416
+PET0658,Bird,Owner_1,Dental Cleaning,193,True,27,2025-02-26,Referred by Vet,Ear Infection,Genetic Disorder,1,193
+PET0543,Cat,Owner_132,Vaccination,934,True,51,2025-01-25,Emergency,Ear Infection,Genetic Disorder,1,934
+PET0414,Cat,Owner_170,Vaccination,118,True,48,2025-01-18,Online Booking,Parvovirus,Genetic Disorder,2,236
+PET0188,Bird,Owner_146,Checkup,148,False,26,2025-01-05,Emergency,Obesity,Chronic Disease,4,592
+PET0362,Rabbit,Owner_21,Surgery,445,True,23,2025-01-25,Referred by Vet,Skin Infection,Genetic Disorder,5,2225
+PET0757,Rabbit,Owner_106,Surgery,74,False,40,2025-01-04,Walk-in,Obesity,Behavioral Issue,1,74
+PET0626,Rabbit,Owner_48,Dental Cleaning,997,False,33,2025-03-17,Walk-in,Parvovirus,Genetic Disorder,2,1994
+PET0760,Rabbit,Owner_99,Dental Cleaning,940,False,44,2025-01-31,Emergency,Ear Infection,Behavioral Issue,2,1880
+PET0204,Dog,Owner_12,Neutering,518,False,53,2025-03-04,Emergency,Dental Disease,Preventative Care,2,1036
+PET0550,Dog,Owner_200,Surgery,533,False,54,2025-02-19,Online Booking,Dental Disease,Preventative Care,4,2132
+PET0928,Rabbit,Owner_143,Neutering,614,False,43,2025-01-09,Walk-in,Obesity,Preventative Care,5,3070
+PET0439,Dog,Owner_19,Vaccination,200,False,12,2025-03-11,Referred by Vet,Arthritis,Behavioral Issue,4,800
+PET0699,Bird,Owner_185,Checkup,193,True,46,2025-03-24,Emergency,Ear Infection,Genetic Disorder,3,579
+PET0122,Cat,Owner_180,Surgery,618,False,52,2025-02-09,Referred by Vet,Ear Infection,Behavioral Issue,2,1236
+PET0974,Cat,Owner_104,Surgery,88,True,49,2025-03-05,Walk-in,Ear Infection,Preventative Care,3,264
+PET0609,Dog,Owner_141,Surgery,158,True,35,2025-03-10,Walk-in,Ear Infection,Chronic Disease,1,158
+PET0240,Rabbit,Owner_75,Checkup,742,False,32,2025-02-27,Emergency,Ear Infection,Infectious Disease,1,742
+PET0159,Cat,Owner_195,Surgery,91,False,53,2025-01-03,Online Booking,Parvovirus,Behavioral Issue,4,364
+PET0551,Cat,Owner_17,Checkup,235,True,48,2025-01-05,Online Booking,Parvovirus,Preventative Care,5,1175
+PET0553,Bird,Owner_20,Vaccination,984,True,24,2025-02-13,Online Booking,Ear Infection,Behavioral Issue,3,2952
+PET0094,Bird,Owner_27,Deworming,447,False,58,2025-01-08,Online Booking,Obesity,Trauma,5,2235
+PET0993,Cat,Owner_164,Vaccination,272,False,13,2025-02-13,Emergency,Dental Disease,Trauma,4,1088
+PET0913,Dog,Owner_15,Checkup,683,False,38,2025-01-06,Online Booking,Skin Infection,Trauma,1,683
+PET0462,Rabbit,Owner_114,Dental Cleaning,182,True,31,2025-02-21,Referred by Vet,Skin Infection,Infectious Disease,5,910
+PET0118,Cat,Owner_87,Vaccination,212,True,34,2025-01-16,Referred by Vet,Arthritis,Behavioral Issue,5,1060
+PET0833,Bird,Owner_193,Checkup,264,True,22,2025-01-28,Emergency,Ear Infection,Chronic Disease,1,264
+PET0499,Bird,Owner_48,Neutering,782,False,27,2025-03-25,Referred by Vet,Dental Disease,Preventative Care,3,2346
+PET0717,Bird,Owner_53,Neutering,284,False,42,2025-03-27,Emergency,Parvovirus,Genetic Disorder,1,284
+PET0509,Bird,Owner_64,Surgery,892,True,25,2025-03-08,Online Booking,Arthritis,Infectious Disease,5,4460
+PET0274,Cat,Owner_161,Neutering,707,False,54,2025-02-28,Online Booking,Dental Disease,Chronic Disease,3,2121
+PET0835,Cat,Owner_141,Surgery,800,True,51,2025-03-28,Walk-in,Arthritis,Chronic Disease,3,2400
+PET0981,Rabbit,Owner_148,Vaccination,637,True,53,2025-03-10,Referred by Vet,Obesity,Chronic Disease,1,637
+PET0244,Cat,Owner_64,Neutering,58,False,11,2025-01-20,Walk-in,Dental Disease,Genetic Disorder,5,290
+PET0552,Cat,Owner_55,Checkup,123,False,44,2025-03-16,Online Booking,Parvovirus,Preventative Care,4,492
+PET0384,Cat,Owner_15,Surgery,541,False,51,2025-01-30,Online Booking,Obesity,Chronic Disease,5,2705
+PET0922,Cat,Owner_41,Deworming,962,True,43,2025-01-10,Online Booking,Ear Infection,Chronic Disease,2,1924
+PET0509,Dog,Owner_156,Vaccination,302,False,39,2025-01-05,Walk-in,Ear Infection,Behavioral Issue,4,1208
+PET0880,Rabbit,Owner_117,Checkup,279,False,22,2025-01-19,Online Booking,Ear Infection,Preventative Care,3,837
+PET0865,Bird,Owner_32,Deworming,568,True,22,2025-03-04,Online Booking,Ear Infection,Genetic Disorder,4,2272
+PET0277,Rabbit,Owner_33,Checkup,223,False,27,2025-03-25,Emergency,Dental Disease,Infectious Disease,3,669
+PET0791,Dog,Owner_94,Checkup,702,False,41,2025-01-03,Emergency,Parvovirus,Trauma,3,2106
+PET0415,Rabbit,Owner_82,Neutering,217,True,41,2025-03-02,Online Booking,Skin Infection,Preventative Care,4,868
+PET0935,Rabbit,Owner_108,Deworming,219,False,44,2025-03-21,Online Booking,Arthritis,Trauma,3,657
+PET0508,Dog,Owner_193,Surgery,442,False,48,2025-01-06,Walk-in,Parvovirus,Trauma,3,1326
+PET0821,Rabbit,Owner_42,Surgery,995,True,55,2025-02-01,Emergency,Arthritis,Preventative Care,2,1990
+PET0283,Rabbit,Owner_62,Vaccination,844,False,38,2025-03-31,Walk-in,Obesity,Chronic Disease,5,4220
+PET0299,Rabbit,Owner_54,Vaccination,683,False,58,2025-03-25,Referred by Vet,Arthritis,Trauma,5,3415
+PET0587,Dog,Owner_24,Surgery,243,True,38,2025-01-17,Referred by Vet,Arthritis,Infectious Disease,2,486
+PET0999,Cat,Owner_32,Surgery,566,True,53,2025-01-02,Referred by Vet,Skin Infection,Behavioral Issue,4,2264
+PET0490,Rabbit,Owner_138,Deworming,78,False,25,2025-01-23,Walk-in,Skin Infection,Chronic Disease,1,78
+PET0149,Dog,Owner_166,Dental Cleaning,214,False,53,2025-03-22,Referred by Vet,Dental Disease,Trauma,1,214
+PET0539,Bird,Owner_140,Checkup,471,False,56,2025-01-07,Online Booking,Skin Infection,Infectious Disease,1,471
+PET0346,Dog,Owner_9,Deworming,388,False,19,2025-02-09,Walk-in,Obesity,Trauma,2,776
+PET0552,Rabbit,Owner_168,Neutering,697,True,39,2025-01-13,Emergency,Obesity,Infectious Disease,2,1394
+PET0544,Bird,Owner_66,Neutering,545,True,34,2025-02-28,Referred by Vet,Skin Infection,Preventative Care,3,1635
+PET0456,Cat,Owner_19,Surgery,414,True,48,2025-03-20,Online Booking,Dental Disease,Infectious Disease,1,414
+PET0322,Bird,Owner_50,Surgery,882,False,29,2025-01-22,Referred by Vet,Skin Infection,Infectious Disease,4,3528
+PET0189,Bird,Owner_72,Vaccination,391,False,14,2025-03-17,Emergency,Ear Infection,Trauma,4,1564
+PET0698,Cat,Owner_103,Dental Cleaning,549,False,10,2025-01-09,Walk-in,Arthritis,Infectious Disease,1,549
+PET0572,Dog,Owner_136,Deworming,706,True,39,2025-01-14,Emergency,Parvovirus,Preventative Care,1,706
+PET0234,Bird,Owner_53,Dental Cleaning,560,False,58,2025-01-15,Walk-in,Dental Disease,Chronic Disease,1,560
+PET0776,Cat,Owner_199,Dental Cleaning,376,True,12,2025-03-05,Online Booking,Dental Disease,Trauma,2,752
+PET0044,Rabbit,Owner_7,Checkup,266,True,54,2025-03-18,Online Booking,Ear Infection,Chronic Disease,2,532
+PET0745,Bird,Owner_81,Deworming,350,False,23,2025-03-20,Referred by Vet,Skin Infection,Trauma,2,700
+PET0706,Dog,Owner_91,Deworming,181,False,39,2025-01-29,Referred by Vet,Dental Disease,Chronic Disease,5,905
+PET0812,Rabbit,Owner_150,Deworming,853,True,59,2025-01-09,Walk-in,Ear Infection,Genetic Disorder,4,3412
+PET0387,Rabbit,Owner_50,Deworming,119,False,13,2025-01-26,Online Booking,Arthritis,Infectious Disease,4,476
+PET0664,Rabbit,Owner_93,Neutering,301,True,27,2025-02-24,Emergency,Ear Infection,Trauma,3,903
+PET0821,Bird,Owner_161,Surgery,464,True,46,2025-02-13,Online Booking,Skin Infection,Behavioral Issue,2,928
+PET0981,Bird,Owner_28,Dental Cleaning,836,False,34,2025-03-28,Referred by Vet,Arthritis,Infectious Disease,5,4180
+PET0496,Dog,Owner_3,Vaccination,494,True,57,2025-02-21,Emergency,Parvovirus,Trauma,5,2470
+PET0038,Bird,Owner_167,Vaccination,925,False,10,2025-02-11,Referred by Vet,Parvovirus,Trauma,4,3700
+PET0503,Dog,Owner_197,Checkup,231,True,55,2025-01-16,Referred by Vet,Skin Infection,Trauma,2,462
+PET0591,Bird,Owner_27,Neutering,216,False,24,2025-03-29,Walk-in,Skin Infection,Behavioral Issue,3,648
+PET0870,Bird,Owner_165,Dental Cleaning,140,False,18,2025-03-15,Referred by Vet,Arthritis,Chronic Disease,2,280
+PET0875,Cat,Owner_75,Vaccination,763,False,24,2025-03-11,Referred by Vet,Skin Infection,Chronic Disease,1,763
+PET0441,Cat,Owner_127,Surgery,907,True,58,2025-01-18,Emergency,Arthritis,Infectious Disease,2,1814
+PET0526,Bird,Owner_129,Vaccination,580,False,33,2025-02-11,Online Booking,Skin Infection,Trauma,1,580
+PET0457,Bird,Owner_117,Surgery,88,True,13,2025-01-28,Referred by Vet,Skin Infection,Genetic Disorder,1,88
+PET0723,Bird,Owner_52,Deworming,175,True,21,2025-01-06,Emergency,Skin Infection,Behavioral Issue,3,525
+PET0410,Bird,Owner_163,Dental Cleaning,500,True,46,2025-03-17,Referred by Vet,Obesity,Infectious Disease,4,2000
+PET0655,Dog,Owner_5,Neutering,222,True,46,2025-01-23,Walk-in,Dental Disease,Chronic Disease,2,444
+PET0155,Rabbit,Owner_13,Surgery,702,False,52,2025-02-12,Walk-in,Skin Infection,Trauma,1,702
+PET0470,Dog,Owner_181,Dental Cleaning,803,True,15,2025-01-09,Referred by Vet,Dental Disease,Preventative Care,2,1606
+PET0970,Bird,Owner_89,Surgery,269,True,48,2025-01-16,Emergency,Dental Disease,Chronic Disease,4,1076
+PET0339,Cat,Owner_26,Surgery,687,True,55,2025-02-05,Emergency,Arthritis,Trauma,4,2748
+PET0693,Bird,Owner_182,Neutering,107,False,33,2025-01-19,Emergency,Skin Infection,Preventative Care,5,535
+PET0650,Rabbit,Owner_166,Dental Cleaning,709,False,20,2025-02-23,Emergency,Parvovirus,Genetic Disorder,4,2836
+PET0852,Cat,Owner_67,Neutering,525,False,22,2025-01-22,Emergency,Ear Infection,Genetic Disorder,3,1575
+PET0853,Bird,Owner_9,Vaccination,505,True,43,2025-03-31,Referred by Vet,Arthritis,Chronic Disease,1,505
+PET0860,Bird,Owner_93,Dental Cleaning,878,False,34,2025-02-17,Walk-in,Arthritis,Genetic Disorder,5,4390
+PET0381,Cat,Owner_34,Dental Cleaning,944,False,16,2025-03-12,Walk-in,Obesity,Behavioral Issue,3,2832
+PET0317,Dog,Owner_115,Checkup,410,False,13,2025-01-22,Referred by Vet,Ear Infection,Preventative Care,2,820
+PET0719,Dog,Owner_165,Neutering,984,True,17,2025-02-26,Walk-in,Parvovirus,Behavioral Issue,1,984
+PET0760,Dog,Owner_79,Deworming,50,True,29,2025-02-01,Online Booking,Parvovirus,Behavioral Issue,4,200
+PET0873,Cat,Owner_6,Vaccination,436,True,38,2025-03-16,Online Booking,Parvovirus,Trauma,1,436
+PET0036,Cat,Owner_137,Checkup,397,True,54,2025-01-06,Online Booking,Dental Disease,Infectious Disease,2,794
+PET0069,Dog,Owner_35,Deworming,239,True,55,2025-01-18,Online Booking,Dental Disease,Infectious Disease,5,1195
+PET0632,Rabbit,Owner_43,Neutering,554,True,19,2025-01-13,Emergency,Dental Disease,Infectious Disease,5,2770
+PET0921,Bird,Owner_38,Neutering,240,False,52,2025-03-22,Emergency,Dental Disease,Infectious Disease,5,1200
+PET0998,Rabbit,Owner_56,Dental Cleaning,557,True,43,2025-03-20,Walk-in,Obesity,Preventative Care,4,2228
+PET0747,Bird,Owner_177,Surgery,418,True,35,2025-02-18,Referred by Vet,Obesity,Genetic Disorder,3,1254
+PET0434,Dog,Owner_7,Dental Cleaning,458,False,50,2025-01-21,Emergency,Dental Disease,Chronic Disease,3,1374
+PET0099,Bird,Owner_124,Surgery,873,False,58,2025-01-03,Referred by Vet,Obesity,Genetic Disorder,1,873
+PET0634,Bird,Owner_50,Deworming,978,False,12,2025-03-04,Referred by Vet,Ear Infection,Trauma,4,3912
+PET0873,Bird,Owner_60,Deworming,983,False,15,2025-01-11,Referred by Vet,Ear Infection,Behavioral Issue,5,4915
+PET0444,Rabbit,Owner_83,Vaccination,166,False,14,2025-01-01,Online Booking,Obesity,Genetic Disorder,5,830
+PET0695,Dog,Owner_111,Surgery,183,False,14,2025-01-01,Emergency,Obesity,Trauma,2,366
+PET0904,Rabbit,Owner_13,Dental Cleaning,107,False,56,2025-01-23,Emergency,Ear Infection,Chronic Disease,2,214
+PET0046,Dog,Owner_56,Deworming,605,True,32,2025-01-12,Referred by Vet,Parvovirus,Trauma,5,3025
+PET0797,Dog,Owner_28,Vaccination,734,False,58,2025-03-25,Emergency,Dental Disease,Genetic Disorder,5,3670
+PET0294,Cat,Owner_40,Vaccination,721,True,18,2025-03-17,Online Booking,Obesity,Chronic Disease,4,2884
+PET0375,Dog,Owner_177,Vaccination,222,False,44,2025-02-06,Online Booking,Obesity,Infectious Disease,3,666
+PET0146,Cat,Owner_106,Surgery,878,False,29,2025-02-23,Walk-in,Skin Infection,Preventative Care,2,1756
+PET0532,Dog,Owner_127,Vaccination,864,True,58,2025-03-30,Referred by Vet,Skin Infection,Chronic Disease,3,2592
+PET0566,Bird,Owner_161,Surgery,198,False,51,2025-03-02,Emergency,Arthritis,Genetic Disorder,4,792
+PET0793,Bird,Owner_159,Neutering,129,False,44,2025-03-30,Walk-in,Arthritis,Behavioral Issue,5,645
+PET0170,Cat,Owner_198,Surgery,935,False,59,2025-01-17,Walk-in,Skin Infection,Behavioral Issue,3,2805
+PET0079,Rabbit,Owner_157,Deworming,262,False,27,2025-01-27,Walk-in,Arthritis,Chronic Disease,5,1310
+PET0871,Dog,Owner_72,Surgery,252,True,26,2025-01-19,Walk-in,Obesity,Genetic Disorder,5,1260
+PET0620,Rabbit,Owner_109,Surgery,813,True,33,2025-03-23,Online Booking,Parvovirus,Chronic Disease,1,813
+PET0241,Rabbit,Owner_97,Deworming,278,True,12,2025-02-04,Online Booking,Skin Infection,Genetic Disorder,3,834
+PET0913,Dog,Owner_183,Neutering,725,True,41,2025-03-08,Emergency,Dental Disease,Genetic Disorder,3,2175
+PET0144,Dog,Owner_101,Checkup,276,False,44,2025-02-27,Online Booking,Obesity,Genetic Disorder,5,1380
+PET0462,Cat,Owner_78,Neutering,708,True,47,2025-02-22,Referred by Vet,Skin Infection,Preventative Care,4,2832
+PET0254,Cat,Owner_36,Dental Cleaning,581,True,22,2025-01-31,Online Booking,Arthritis,Chronic Disease,1,581
+PET0256,Rabbit,Owner_64,Checkup,490,False,56,2025-01-23,Emergency,Obesity,Behavioral Issue,5,2450
+PET0010,Bird,Owner_44,Checkup,451,True,34,2025-03-20,Online Booking,Obesity,Preventative Care,2,902
+PET0805,Rabbit,Owner_180,Dental Cleaning,96,False,18,2025-03-30,Referred by Vet,Obesity,Preventative Care,2,192
+PET0902,Cat,Owner_156,Neutering,282,True,13,2025-01-05,Referred by Vet,Skin Infection,Chronic Disease,1,282
+PET0678,Dog,Owner_12,Surgery,354,False,23,2025-03-18,Online Booking,Obesity,Infectious Disease,4,1416
+PET0158,Bird,Owner_199,Neutering,575,True,46,2025-01-24,Referred by Vet,Dental Disease,Infectious Disease,5,2875
+PET0442,Cat,Owner_106,Surgery,192,False,43,2025-03-05,Online Booking,Dental Disease,Behavioral Issue,3,576
+PET0346,Rabbit,Owner_154,Surgery,464,True,20,2025-03-20,Online Booking,Obesity,Behavioral Issue,1,464
+PET0588,Dog,Owner_200,Deworming,562,False,50,2025-01-12,Walk-in,Obesity,Trauma,4,2248
+PET0639,Dog,Owner_195,Checkup,422,False,12,2025-03-22,Online Booking,Dental Disease,Preventative Care,3,1266
+PET0425,Dog,Owner_21,Surgery,615,False,37,2025-02-08,Emergency,Skin Infection,Infectious Disease,2,1230
+PET0251,Rabbit,Owner_132,Vaccination,935,True,38,2025-02-14,Online Booking,Arthritis,Infectious Disease,2,1870
+PET0846,Rabbit,Owner_54,Surgery,308,True,18,2025-02-23,Walk-in,Skin Infection,Trauma,3,924
+PET0200,Cat,Owner_164,Neutering,705,True,12,2025-01-01,Walk-in,Arthritis,Chronic Disease,1,705
+PET0385,Rabbit,Owner_184,Dental Cleaning,520,True,34,2025-03-13,Walk-in,Parvovirus,Preventative Care,2,1040
+PET0484,Cat,Owner_12,Deworming,61,False,43,2025-01-31,Walk-in,Ear Infection,Chronic Disease,5,305
+PET0238,Rabbit,Owner_200,Surgery,379,False,21,2025-01-25,Referred by Vet,Parvovirus,Trauma,3,1137
+PET0572,Rabbit,Owner_44,Deworming,785,True,51,2025-01-16,Emergency,Obesity,Trauma,3,2355
+PET0575,Dog,Owner_170,Checkup,833,True,18,2025-03-09,Referred by Vet,Ear Infection,Preventative Care,2,1666
+PET0993,Dog,Owner_160,Neutering,407,True,24,2025-01-13,Online Booking,Skin Infection,Preventative Care,1,407
+PET0296,Bird,Owner_71,Neutering,457,False,49,2025-03-21,Online Booking,Skin Infection,Chronic Disease,5,2285
+PET0978,Bird,Owner_168,Dental Cleaning,717,False,34,2025-02-16,Walk-in,Obesity,Chronic Disease,1,717
+PET0659,Dog,Owner_170,Neutering,422,False,14,2025-03-11,Referred by Vet,Skin Infection,Chronic Disease,4,1688
+PET0275,Cat,Owner_36,Vaccination,57,False,20,2025-03-06,Emergency,Obesity,Trauma,4,228
+PET0566,Rabbit,Owner_119,Neutering,171,True,43,2025-01-29,Referred by Vet,Arthritis,Trauma,2,342
+PET0686,Dog,Owner_162,Vaccination,397,True,33,2025-03-01,Referred by Vet,Dental Disease,Chronic Disease,2,794
+PET0745,Rabbit,Owner_140,Dental Cleaning,725,True,24,2025-03-22,Online Booking,Parvovirus,Infectious Disease,2,1450
+PET0050,Dog,Owner_183,Deworming,139,True,47,2025-03-26,Online Booking,Obesity,Infectious Disease,4,556
+PET0607,Rabbit,Owner_6,Neutering,697,False,17,2025-01-27,Walk-in,Ear Infection,Infectious Disease,1,697
+PET0497,Rabbit,Owner_141,Neutering,747,True,14,2025-02-05,Walk-in,Parvovirus,Genetic Disorder,1,747
+PET0905,Rabbit,Owner_190,Neutering,365,False,57,2025-01-07,Online Booking,Ear Infection,Chronic Disease,2,730
+PET0287,Dog,Owner_113,Vaccination,227,False,35,2025-01-25,Walk-in,Dental Disease,Trauma,5,1135
+PET0799,Cat,Owner_113,Deworming,589,False,27,2025-01-15,Walk-in,Arthritis,Behavioral Issue,1,589
+PET0608,Rabbit,Owner_38,Dental Cleaning,781,True,15,2025-01-20,Emergency,Arthritis,Infectious Disease,4,3124
+PET0353,Dog,Owner_198,Checkup,918,True,46,2025-03-29,Referred by Vet,Arthritis,Chronic Disease,3,2754
+PET0637,Dog,Owner_177,Surgery,90,False,57,2025-03-02,Online Booking,Ear Infection,Behavioral Issue,3,270
+PET0621,Rabbit,Owner_99,Checkup,789,False,22,2025-03-05,Emergency,Ear Infection,Trauma,3,2367
+PET0678,Dog,Owner_62,Deworming,753,False,37,2025-01-23,Emergency,Dental Disease,Chronic Disease,5,3765
+PET0721,Rabbit,Owner_99,Dental Cleaning,972,False,14,2025-01-21,Online Booking,Skin Infection,Infectious Disease,2,1944
+PET0660,Bird,Owner_19,Surgery,551,True,22,2025-03-27,Emergency,Arthritis,Infectious Disease,4,2204
+PET0839,Cat,Owner_47,Dental Cleaning,194,False,26,2025-01-06,Emergency,Dental Disease,Preventative Care,5,970
+PET0629,Rabbit,Owner_44,Surgery,250,True,59,2025-01-07,Referred by Vet,Parvovirus,Behavioral Issue,4,1000
+PET0904,Cat,Owner_106,Neutering,978,False,49,2025-03-24,Walk-in,Arthritis,Chronic Disease,4,3912
+PET0647,Dog,Owner_1,Surgery,773,True,54,2025-02-16,Online Booking,Skin Infection,Genetic Disorder,2,1546
+PET0309,Cat,Owner_184,Deworming,510,True,41,2025-02-06,Emergency,Ear Infection,Trauma,3,1530
+PET0441,Bird,Owner_41,Surgery,781,False,38,2025-01-27,Online Booking,Parvovirus,Genetic Disorder,2,1562
+PET0580,Rabbit,Owner_27,Neutering,801,True,12,2025-02-25,Walk-in,Parvovirus,Preventative Care,5,4005
+PET0733,Cat,Owner_144,Deworming,974,False,49,2025-02-02,Emergency,Arthritis,Trauma,5,4870
+PET0091,Bird,Owner_184,Surgery,958,True,43,2025-02-12,Emergency,Parvovirus,Preventative Care,5,4790
+PET0296,Rabbit,Owner_169,Neutering,607,True,49,2025-03-20,Referred by Vet,Obesity,Chronic Disease,2,1214
+PET0748,Rabbit,Owner_65,Deworming,596,True,36,2025-02-28,Emergency,Skin Infection,Trauma,4,2384
+PET0176,Dog,Owner_5,Neutering,302,False,22,2025-01-06,Online Booking,Dental Disease,Behavioral Issue,4,1208
+PET0133,Cat,Owner_118,Neutering,439,True,54,2025-01-14,Online Booking,Parvovirus,Infectious Disease,1,439
+PET0540,Dog,Owner_184,Surgery,643,True,42,2025-01-07,Walk-in,Ear Infection,Genetic Disorder,5,3215
+PET0972,Bird,Owner_155,Surgery,932,False,15,2025-03-10,Walk-in,Dental Disease,Infectious Disease,4,3728
+PET0531,Bird,Owner_170,Vaccination,305,False,33,2025-01-23,Online Booking,Dental Disease,Preventative Care,1,305
+PET0914,Dog,Owner_173,Vaccination,758,True,28,2025-01-21,Emergency,Arthritis,Behavioral Issue,4,3032
+PET0831,Bird,Owner_193,Vaccination,864,False,25,2025-01-04,Referred by Vet,Parvovirus,Preventative Care,5,4320
+PET0257,Dog,Owner_75,Surgery,970,True,49,2025-03-04,Online Booking,Parvovirus,Chronic Disease,3,2910
+PET0825,Cat,Owner_189,Dental Cleaning,499,False,37,2025-03-07,Emergency,Arthritis,Genetic Disorder,5,2495
+PET0482,Bird,Owner_80,Dental Cleaning,59,True,42,2025-01-15,Walk-in,Dental Disease,Behavioral Issue,2,118
+PET0807,Bird,Owner_21,Neutering,873,True,57,2025-01-10,Online Booking,Ear Infection,Infectious Disease,4,3492
+PET0747,Bird,Owner_61,Checkup,847,True,50,2025-01-31,Emergency,Skin Infection,Preventative Care,4,3388
+PET0339,Rabbit,Owner_28,Vaccination,291,False,22,2025-02-26,Online Booking,Parvovirus,Trauma,2,582
+PET0116,Cat,Owner_32,Dental Cleaning,300,True,52,2025-03-17,Referred by Vet,Parvovirus,Genetic Disorder,2,600
+PET0963,Bird,Owner_190,Checkup,926,False,54,2025-03-16,Emergency,Arthritis,Behavioral Issue,3,2778
+PET0141,Cat,Owner_159,Checkup,54,False,34,2025-02-11,Emergency,Skin Infection,Chronic Disease,4,216
+PET0967,Bird,Owner_193,Neutering,168,False,51,2025-02-23,Online Booking,Parvovirus,Genetic Disorder,4,672
+PET0861,Bird,Owner_130,Neutering,850,False,45,2025-01-26,Emergency,Ear Infection,Infectious Disease,3,2550
+PET0725,Cat,Owner_35,Dental Cleaning,423,True,36,2025-03-28,Walk-in,Ear Infection,Chronic Disease,1,423
+PET0980,Rabbit,Owner_194,Vaccination,114,True,47,2025-02-11,Walk-in,Parvovirus,Preventative Care,3,342
+PET0968,Rabbit,Owner_139,Deworming,195,False,16,2025-01-30,Emergency,Dental Disease,Chronic Disease,5,975
+PET0805,Rabbit,Owner_186,Vaccination,273,True,14,2025-01-15,Referred by Vet,Skin Infection,Behavioral Issue,4,1092
+PET0366,Rabbit,Owner_158,Vaccination,288,False,52,2025-02-11,Walk-in,Obesity,Behavioral Issue,2,576
+PET0791,Cat,Owner_45,Surgery,226,False,54,2025-01-30,Walk-in,Skin Infection,Behavioral Issue,5,1130
+PET0014,Dog,Owner_118,Vaccination,828,False,40,2025-01-13,Online Booking,Arthritis,Behavioral Issue,4,3312
+PET0537,Rabbit,Owner_36,Surgery,902,True,32,2025-01-31,Referred by Vet,Ear Infection,Behavioral Issue,3,2706
+PET0455,Rabbit,Owner_62,Vaccination,331,False,51,2025-02-22,Referred by Vet,Arthritis,Trauma,5,1655
+PET0673,Rabbit,Owner_138,Surgery,112,True,19,2025-01-26,Walk-in,Arthritis,Genetic Disorder,4,448
+PET0673,Dog,Owner_26,Vaccination,266,True,41,2025-02-18,Online Booking,Obesity,Behavioral Issue,1,266
+PET0585,Dog,Owner_146,Dental Cleaning,903,True,52,2025-01-29,Online Booking,Dental Disease,Infectious Disease,1,903
+PET0823,Dog,Owner_190,Dental Cleaning,876,False,39,2025-01-10,Walk-in,Parvovirus,Trauma,2,1752
+PET0941,Cat,Owner_190,Deworming,844,False,48,2025-03-02,Online Booking,Parvovirus,Behavioral Issue,4,3376
+PET0109,Rabbit,Owner_79,Surgery,738,False,40,2025-03-16,Walk-in,Parvovirus,Preventative Care,1,738
+PET0234,Rabbit,Owner_199,Surgery,510,False,27,2025-03-04,Online Booking,Skin Infection,Infectious Disease,3,1530
+PET0026,Rabbit,Owner_194,Vaccination,978,False,45,2025-01-07,Referred by Vet,Obesity,Preventative Care,4,3912
+PET0885,Bird,Owner_7,Checkup,659,True,11,2025-02-25,Online Booking,Arthritis,Genetic Disorder,3,1977
+PET0562,Dog,Owner_121,Surgery,154,True,23,2025-01-19,Emergency,Ear Infection,Infectious Disease,3,462
+PET0916,Cat,Owner_185,Dental Cleaning,148,False,22,2025-01-28,Walk-in,Ear Infection,Infectious Disease,1,148
+PET0222,Cat,Owner_194,Vaccination,560,False,38,2025-03-20,Referred by Vet,Skin Infection,Preventative Care,4,2240
+PET0064,Bird,Owner_45,Neutering,434,True,21,2025-02-28,Referred by Vet,Arthritis,Genetic Disorder,5,2170
+PET0824,Rabbit,Owner_114,Deworming,454,True,48,2025-01-23,Online Booking,Obesity,Genetic Disorder,1,454
+PET0910,Dog,Owner_188,Deworming,872,True,11,2025-02-19,Referred by Vet,Dental Disease,Genetic Disorder,1,872
+PET0303,Bird,Owner_29,Dental Cleaning,567,True,41,2025-02-17,Emergency,Ear Infection,Trauma,4,2268
+PET0409,Cat,Owner_150,Checkup,525,True,22,2025-01-18,Walk-in,Skin Infection,Genetic Disorder,4,2100
+PET0140,Bird,Owner_48,Surgery,758,True,55,2025-02-28,Emergency,Obesity,Behavioral Issue,3,2274
+PET0947,Bird,Owner_197,Checkup,912,False,36,2025-01-25,Online Booking,Obesity,Behavioral Issue,4,3648
+PET0305,Dog,Owner_34,Checkup,694,True,58,2025-03-22,Emergency,Dental Disease,Infectious Disease,3,2082
+PET0493,Dog,Owner_178,Dental Cleaning,919,True,50,2025-02-15,Referred by Vet,Arthritis,Genetic Disorder,1,919
+PET0098,Dog,Owner_18,Surgery,820,False,26,2025-02-04,Online Booking,Obesity,Trauma,2,1640
+PET0888,Dog,Owner_142,Dental Cleaning,486,True,49,2025-01-26,Referred by Vet,Dental Disease,Genetic Disorder,5,2430
+PET0136,Rabbit,Owner_128,Checkup,72,False,40,2025-02-12,Emergency,Dental Disease,Trauma,1,72
+PET0454,Rabbit,Owner_178,Neutering,614,False,43,2025-01-17,Referred by Vet,Ear Infection,Chronic Disease,4,2456
+PET0671,Dog,Owner_90,Neutering,726,False,33,2025-01-05,Online Booking,Obesity,Chronic Disease,5,3630
+PET0744,Rabbit,Owner_54,Surgery,763,False,54,2025-03-30,Online Booking,Skin Infection,Infectious Disease,2,1526
+PET0946,Cat,Owner_50,Dental Cleaning,507,True,44,2025-03-14,Emergency,Ear Infection,Chronic Disease,2,1014
+PET0420,Dog,Owner_14,Neutering,132,False,57,2025-01-08,Referred by Vet,Dental Disease,Genetic Disorder,3,396
+PET0743,Dog,Owner_52,Vaccination,194,False,15,2025-02-05,Referred by Vet,Arthritis,Behavioral Issue,5,970
+PET0155,Bird,Owner_22,Dental Cleaning,134,False,28,2025-01-18,Walk-in,Skin Infection,Genetic Disorder,3,402
+PET0415,Dog,Owner_1,Deworming,127,True,39,2025-01-15,Referred by Vet,Ear Infection,Trauma,1,127
+PET0100,Rabbit,Owner_78,Surgery,506,False,16,2025-03-01,Referred by Vet,Dental Disease,Genetic Disorder,5,2530
+PET0490,Cat,Owner_147,Neutering,927,False,19,2025-02-28,Walk-in,Ear Infection,Preventative Care,1,927
+PET0409,Bird,Owner_194,Vaccination,50,False,50,2025-02-23,Emergency,Dental Disease,Chronic Disease,3,150
+PET0952,Rabbit,Owner_177,Vaccination,100,True,41,2025-01-22,Walk-in,Arthritis,Chronic Disease,5,500
+PET0033,Cat,Owner_99,Neutering,734,False,43,2025-02-13,Referred by Vet,Dental Disease,Genetic Disorder,3,2202
+PET0371,Rabbit,Owner_76,Surgery,766,True,37,2025-01-29,Emergency,Ear Infection,Preventative Care,5,3830
+PET0444,Rabbit,Owner_110,Vaccination,821,False,24,2025-02-07,Emergency,Obesity,Chronic Disease,3,2463
+PET0951,Cat,Owner_21,Checkup,495,False,39,2025-03-19,Referred by Vet,Obesity,Infectious Disease,2,990
+PET0856,Cat,Owner_96,Surgery,498,True,46,2025-01-21,Referred by Vet,Dental Disease,Chronic Disease,3,1494
