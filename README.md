@@ -1,5 +1,7 @@
 # Veterinary-Data-Science-Dashboard
-![Uploading image.png…]()
+
+
+<img width="761" alt="Untitled" src="https://github.com/user-attachments/assets/6407bf64-8be2-440d-815f-95c0add9d7e7" />
 
 
 Project Overview
